@@ -1,0 +1,2168 @@
+2021-09-15 12:06:27 - Please select pcap!
+2021-09-15 12:10:01 - Please select output folder!
+2021-09-15 12:10:13 - You select: input/test_1.pcap
+2021-09-15 12:10:13 - Out folder: output
+2021-09-15 12:10:13 - CICFlowMeter received 1 pcap file
+2021-09-15 12:10:14 - Forward flow closed due to FIN Flag
+2021-09-15 12:10:14 - Forward flow closed due to FIN Flag
+2021-09-15 12:10:14 - Forward flow closed due to FIN Flag
+2021-09-15 12:10:14 - Forward flow closed due to FIN Flag
+2021-09-15 12:10:14 - Forward flow closed due to FIN Flag
+2021-09-15 12:22:06 - Please select pcap!
+2021-09-15 12:22:40 - Please select pcap!
+2021-09-15 12:22:56 - The pcap file or folder does not exist! -> -h
+2021-09-25 18:37:47 - Please select pcap!
+2021-09-25 18:41:26 - The pcap file or folder does not exist! -> -i
+2021-10-11 09:51:34 - The pcap file or folder does not exist! -> /input/test_1.pcap
+2021-10-11 09:51:41 - You select: input/test_1.pcap
+2021-10-11 09:51:41 - Out folder: /output
+2021-10-11 09:51:41 - CICFlowMeter received 1 pcap file
+2021-10-11 09:51:42 - Forward flow closed due to FIN Flag
+2021-10-11 09:51:42 - Forward flow closed due to FIN Flag
+2021-10-11 09:51:42 - Forward flow closed due to FIN Flag
+2021-10-11 09:51:42 - Forward flow closed due to FIN Flag
+2021-10-11 09:51:42 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:34 - You select: input/test_1.pcap
+2021-10-11 09:52:34 - Out folder: /output
+2021-10-11 09:52:34 - CICFlowMeter received 1 pcap file
+2021-10-11 09:52:34 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:35 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:35 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:35 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:35 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:45 - You select: input/test_1.pcap
+2021-10-11 09:52:45 - Out folder: output
+2021-10-11 09:52:45 - CICFlowMeter received 1 pcap file
+2021-10-11 09:52:46 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:46 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:46 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:46 - Forward flow closed due to FIN Flag
+2021-10-11 09:52:46 - Forward flow closed due to FIN Flag
+2021-10-11 10:06:28 - You select: input/test_1.pcap
+2021-10-11 10:06:28 - Out folder: output
+2021-10-11 10:06:28 - CICFlowMeter received 1 pcap file
+2021-10-11 10:06:29 - Forward flow closed due to FIN Flag
+2021-10-11 10:06:29 - Forward flow closed due to FIN Flag
+2021-10-11 10:06:29 - Forward flow closed due to FIN Flag
+2021-10-11 10:06:29 - Forward flow closed due to FIN Flag
+2021-10-11 10:06:29 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:05 - You select: input/test_1.pcap
+2021-10-11 10:07:05 - Out folder: ids_input
+2021-10-11 10:07:06 - CICFlowMeter received 1 pcap file
+2021-10-11 10:07:06 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:06 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:06 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:06 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:06 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:57 - You select: input/test_1.pcap
+2021-10-11 10:07:57 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent\ids_input
+2021-10-11 10:07:58 - CICFlowMeter received 1 pcap file
+2021-10-11 10:07:58 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:59 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:59 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:59 - Forward flow closed due to FIN Flag
+2021-10-11 10:07:59 - Forward flow closed due to FIN Flag
+2021-10-11 10:18:04 - You select: input/test_1.pcap
+2021-10-11 10:18:04 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent\ids_input
+2021-10-11 10:18:05 - CICFlowMeter received 1 pcap file
+2021-10-11 10:18:05 - Forward flow closed due to FIN Flag
+2021-10-11 10:18:05 - Forward flow closed due to FIN Flag
+2021-10-11 10:18:05 - Forward flow closed due to FIN Flag
+2021-10-11 10:18:05 - Forward flow closed due to FIN Flag
+2021-10-11 10:18:05 - Forward flow closed due to FIN Flag
+2021-10-11 10:33:00 - You select: input/test_1.pcap
+2021-10-11 10:33:00 - Out folder: output
+2021-10-11 10:33:00 - CICFlowMeter received 1 pcap file
+2021-10-11 10:33:00 - Forward flow closed due to FIN Flag
+2021-10-11 10:33:01 - Forward flow closed due to FIN Flag
+2021-10-11 10:33:01 - Forward flow closed due to FIN Flag
+2021-10-11 10:33:01 - Forward flow closed due to FIN Flag
+2021-10-11 10:33:01 - Forward flow closed due to FIN Flag
+2021-10-11 10:42:53 - You select: input/test_1.pcap
+2021-10-11 10:42:53 - Out folder: output
+2021-10-11 10:42:54 - CICFlowMeter received 1 pcap file
+2021-10-11 10:42:54 - Forward flow closed due to FIN Flag
+2021-10-11 10:42:54 - Forward flow closed due to FIN Flag
+2021-10-11 10:42:54 - Forward flow closed due to FIN Flag
+2021-10-11 10:42:54 - Forward flow closed due to FIN Flag
+2021-10-11 10:42:54 - Forward flow closed due to FIN Flag
+2021-10-11 10:43:48 - You select: input/test_1.pcap
+2021-10-11 10:43:48 - Out folder: output
+2021-10-11 10:43:49 - CICFlowMeter received 1 pcap file
+2021-10-11 10:43:49 - Forward flow closed due to FIN Flag
+2021-10-11 10:43:49 - Forward flow closed due to FIN Flag
+2021-10-11 10:43:49 - Forward flow closed due to FIN Flag
+2021-10-11 10:43:49 - Forward flow closed due to FIN Flag
+2021-10-11 10:43:49 - Forward flow closed due to FIN Flag
+2021-10-11 10:44:37 - You select: input/test_1.pcap
+2021-10-11 10:44:37 - Out folder: output
+2021-10-11 10:44:38 - CICFlowMeter received 1 pcap file
+2021-10-11 10:44:38 - Forward flow closed due to FIN Flag
+2021-10-11 10:44:38 - Forward flow closed due to FIN Flag
+2021-10-11 10:44:38 - Forward flow closed due to FIN Flag
+2021-10-11 10:44:38 - Forward flow closed due to FIN Flag
+2021-10-11 10:44:38 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:02 - You select: input/test_1.pcap
+2021-10-11 10:45:02 - Out folder: output
+2021-10-11 10:45:02 - CICFlowMeter received 1 pcap file
+2021-10-11 10:45:03 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:03 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:03 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:03 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:03 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:20 - You select: input/test_1.pcap
+2021-10-11 10:45:20 - Out folder: output
+2021-10-11 10:45:20 - CICFlowMeter received 1 pcap file
+2021-10-11 10:45:20 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:21 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:21 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:21 - Forward flow closed due to FIN Flag
+2021-10-11 10:45:21 - Forward flow closed due to FIN Flag
+2021-10-11 10:52:44 - The pcap file or folder does not exist! -> input/test1.pcap
+2021-10-11 10:53:42 - You select: input/test_1.pcap
+2021-10-11 10:53:42 - Out folder: output
+2021-10-11 10:53:42 - CICFlowMeter received 1 pcap file
+2021-10-11 10:53:43 - Forward flow closed due to FIN Flag
+2021-10-11 10:53:43 - Forward flow closed due to FIN Flag
+2021-10-11 10:53:43 - Forward flow closed due to FIN Flag
+2021-10-11 10:53:43 - Forward flow closed due to FIN Flag
+2021-10-11 10:53:43 - Forward flow closed due to FIN Flag
+2021-10-11 11:01:08 - You select: input/test_1.pcap
+2021-10-11 11:01:08 - Out folder: output
+2021-10-11 11:01:08 - CICFlowMeter received 1 pcap file
+2021-10-11 11:01:09 - Forward flow closed due to FIN Flag
+2021-10-11 11:01:09 - Forward flow closed due to FIN Flag
+2021-10-11 11:01:09 - Forward flow closed due to FIN Flag
+2021-10-11 11:01:09 - Forward flow closed due to FIN Flag
+2021-10-11 11:01:09 - Forward flow closed due to FIN Flag
+2021-10-11 11:03:20 - You select: input/test_1.pcap
+2021-10-11 11:03:20 - Out folder: output
+2021-10-11 11:03:20 - CICFlowMeter received 1 pcap file
+2021-10-11 11:03:21 - Forward flow closed due to FIN Flag
+2021-10-11 11:03:21 - Forward flow closed due to FIN Flag
+2021-10-11 11:03:21 - Forward flow closed due to FIN Flag
+2021-10-11 11:03:21 - Forward flow closed due to FIN Flag
+2021-10-11 11:03:21 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:37 - You select: input/test_1.pcap
+2021-10-11 11:58:37 - Out folder: output
+2021-10-11 11:58:38 - CICFlowMeter received 1 pcap file
+2021-10-11 11:58:38 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:38 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:38 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:38 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:38 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:55 - You select: input/test_1.pcap
+2021-10-11 11:58:55 - Out folder: output
+2021-10-11 11:58:55 - CICFlowMeter received 1 pcap file
+2021-10-11 11:58:56 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:56 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:56 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:56 - Forward flow closed due to FIN Flag
+2021-10-11 11:58:56 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:22 - You select: input/test_1.pcap
+2021-10-11 11:59:22 - Out folder: output
+2021-10-11 11:59:22 - CICFlowMeter received 1 pcap file
+2021-10-11 11:59:23 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:23 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:23 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:23 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:23 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:48 - You select: input/test_1.pcap
+2021-10-11 11:59:48 - Out folder: output
+2021-10-11 11:59:49 - CICFlowMeter received 1 pcap file
+2021-10-11 11:59:49 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:49 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:49 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:49 - Forward flow closed due to FIN Flag
+2021-10-11 11:59:49 - Forward flow closed due to FIN Flag
+2021-10-11 12:00:47 - You select: input/test_1.pcap
+2021-10-11 12:00:47 - Out folder: output
+2021-10-11 12:00:48 - CICFlowMeter received 1 pcap file
+2021-10-11 12:00:48 - Forward flow closed due to FIN Flag
+2021-10-11 12:00:48 - Forward flow closed due to FIN Flag
+2021-10-11 12:00:48 - Forward flow closed due to FIN Flag
+2021-10-11 12:00:48 - Forward flow closed due to FIN Flag
+2021-10-11 12:00:48 - Forward flow closed due to FIN Flag
+2021-10-11 12:02:33 - You select: input/test_1.pcap
+2021-10-11 12:02:33 - Out folder: output
+2021-10-11 12:02:34 - CICFlowMeter received 1 pcap file
+2021-10-11 12:02:34 - Forward flow closed due to FIN Flag
+2021-10-11 12:02:34 - Forward flow closed due to FIN Flag
+2021-10-11 12:02:34 - Forward flow closed due to FIN Flag
+2021-10-11 12:02:34 - Forward flow closed due to FIN Flag
+2021-10-11 12:02:34 - Forward flow closed due to FIN Flag
+2021-10-11 12:03:51 - You select: input/test_1.pcap
+2021-10-11 12:03:51 - Out folder: output
+2021-10-11 12:03:52 - CICFlowMeter received 1 pcap file
+2021-10-11 12:03:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:03:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:03:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:03:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:03:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:05:23 - You select: input/test_1.pcap
+2021-10-11 12:05:23 - Out folder: output
+2021-10-11 12:05:24 - CICFlowMeter received 1 pcap file
+2021-10-11 12:05:24 - Forward flow closed due to FIN Flag
+2021-10-11 12:05:24 - Forward flow closed due to FIN Flag
+2021-10-11 12:05:24 - Forward flow closed due to FIN Flag
+2021-10-11 12:05:24 - Forward flow closed due to FIN Flag
+2021-10-11 12:05:24 - Forward flow closed due to FIN Flag
+2021-10-11 12:16:43 - You select: input/test_1.pcap
+2021-10-11 12:16:43 - Out folder: output
+2021-10-11 12:16:44 - CICFlowMeter received 1 pcap file
+2021-10-11 12:16:44 - Forward flow closed due to FIN Flag
+2021-10-11 12:16:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:16:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:16:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:16:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:33 - You select: input/test_1.pcap
+2021-10-11 12:20:33 - Out folder: output
+2021-10-11 12:20:34 - CICFlowMeter received 1 pcap file
+2021-10-11 12:20:34 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:35 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:35 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:35 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:35 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:55 - You select: input/test_1.pcap
+2021-10-11 12:20:55 - Out folder: output
+2021-10-11 12:20:56 - CICFlowMeter received 1 pcap file
+2021-10-11 12:20:56 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:20:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:21:52 - You select: input/test_1.pcap
+2021-10-11 12:21:52 - Out folder: output
+2021-10-11 12:21:52 - CICFlowMeter received 1 pcap file
+2021-10-11 12:21:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:21:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:21:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:21:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:21:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:19 - You select: input/test_1.pcap
+2021-10-11 12:22:19 - Out folder: output
+2021-10-11 12:22:20 - CICFlowMeter received 1 pcap file
+2021-10-11 12:22:20 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:55 - You select: input/test_1.pcap
+2021-10-11 12:22:55 - Out folder: output
+2021-10-11 12:22:56 - CICFlowMeter received 1 pcap file
+2021-10-11 12:22:56 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:22:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:23:39 - You select: input/test_1.pcap
+2021-10-11 12:23:39 - Out folder: output
+2021-10-11 12:23:40 - CICFlowMeter received 1 pcap file
+2021-10-11 12:23:40 - Forward flow closed due to FIN Flag
+2021-10-11 12:23:44 - You select: input/test_1.pcap
+2021-10-11 12:23:44 - Out folder: output
+2021-10-11 12:23:45 - CICFlowMeter received 1 pcap file
+2021-10-11 12:23:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:23:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:23:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:23:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:23:45 - Forward flow closed due to FIN Flag
+2021-10-11 12:25:07 - You select: input/test_1.pcap
+2021-10-11 12:25:07 - Out folder: output
+2021-10-11 12:25:08 - CICFlowMeter received 1 pcap file
+2021-10-11 12:25:08 - Forward flow closed due to FIN Flag
+2021-10-11 12:25:08 - Forward flow closed due to FIN Flag
+2021-10-11 12:25:09 - Forward flow closed due to FIN Flag
+2021-10-11 12:25:09 - Forward flow closed due to FIN Flag
+2021-10-11 12:25:09 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:01 - You select: input/test_1.pcap
+2021-10-11 12:26:01 - Out folder: output
+2021-10-11 12:26:02 - CICFlowMeter received 1 pcap file
+2021-10-11 12:26:03 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:03 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:03 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:03 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:03 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:51 - You select: input/test_1.pcap
+2021-10-11 12:26:51 - Out folder: output
+2021-10-11 12:26:52 - CICFlowMeter received 1 pcap file
+2021-10-11 12:26:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:26:53 - Forward flow closed due to FIN Flag
+2021-10-11 12:31:14 - You select: input/test_1.pcap
+2021-10-11 12:31:14 - Out folder: output
+2021-10-11 12:31:14 - CICFlowMeter received 1 pcap file
+2021-10-11 12:31:15 - Forward flow closed due to FIN Flag
+2021-10-11 12:31:15 - Forward flow closed due to FIN Flag
+2021-10-11 12:31:15 - Forward flow closed due to FIN Flag
+2021-10-11 12:31:15 - Forward flow closed due to FIN Flag
+2021-10-11 12:31:15 - Forward flow closed due to FIN Flag
+2021-10-11 12:32:17 - You select: input/test_1.pcap
+2021-10-11 12:32:17 - Out folder: output
+2021-10-11 12:32:18 - CICFlowMeter received 1 pcap file
+2021-10-11 12:32:18 - Forward flow closed due to FIN Flag
+2021-10-11 12:32:18 - Forward flow closed due to FIN Flag
+2021-10-11 12:32:18 - Forward flow closed due to FIN Flag
+2021-10-11 12:32:18 - Forward flow closed due to FIN Flag
+2021-10-11 12:32:18 - Forward flow closed due to FIN Flag
+2021-10-11 12:37:02 - You select: input/test_1.pcap
+2021-10-11 12:37:02 - Out folder: output
+2021-10-11 12:37:03 - CICFlowMeter received 1 pcap file
+2021-10-11 12:37:03 - Forward flow closed due to FIN Flag
+2021-10-11 12:37:04 - Forward flow closed due to FIN Flag
+2021-10-11 12:37:04 - Forward flow closed due to FIN Flag
+2021-10-11 12:37:04 - Forward flow closed due to FIN Flag
+2021-10-11 12:37:04 - Forward flow closed due to FIN Flag
+2021-10-11 12:39:04 - You select: input/test_1.pcap
+2021-10-11 12:39:04 - Out folder: output
+2021-10-11 12:39:05 - CICFlowMeter received 1 pcap file
+2021-10-11 12:39:05 - Forward flow closed due to FIN Flag
+2021-10-11 12:39:05 - Forward flow closed due to FIN Flag
+2021-10-11 12:39:05 - Forward flow closed due to FIN Flag
+2021-10-11 12:39:05 - Forward flow closed due to FIN Flag
+2021-10-11 12:39:05 - Forward flow closed due to FIN Flag
+2021-10-11 12:40:19 - You select: input/test_1.pcap
+2021-10-11 12:40:19 - Out folder: output
+2021-10-11 12:40:20 - CICFlowMeter received 1 pcap file
+2021-10-11 12:40:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:40:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:40:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:40:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:40:21 - Forward flow closed due to FIN Flag
+2021-10-11 12:53:51 - You select: input/test_1.pcap
+2021-10-11 12:53:51 - Out folder: output
+2021-10-11 12:53:52 - CICFlowMeter received 1 pcap file
+2021-10-11 12:53:52 - Forward flow closed due to FIN Flag
+2021-10-11 12:53:52 - Forward flow closed due to FIN Flag
+2021-10-11 12:53:52 - Forward flow closed due to FIN Flag
+2021-10-11 12:53:52 - Forward flow closed due to FIN Flag
+2021-10-11 12:53:52 - Forward flow closed due to FIN Flag
+2021-10-11 12:54:32 - You select: input/test_1.pcap
+2021-10-11 12:54:32 - Out folder: output
+2021-10-11 12:54:33 - CICFlowMeter received 1 pcap file
+2021-10-11 12:54:33 - Forward flow closed due to FIN Flag
+2021-10-11 12:54:33 - Forward flow closed due to FIN Flag
+2021-10-11 12:54:33 - Forward flow closed due to FIN Flag
+2021-10-11 12:54:33 - Forward flow closed due to FIN Flag
+2021-10-11 12:54:33 - Forward flow closed due to FIN Flag
+2021-10-11 12:55:56 - You select: input/test_1.pcap
+2021-10-11 12:55:56 - Out folder: output
+2021-10-11 12:55:56 - CICFlowMeter received 1 pcap file
+2021-10-11 12:55:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:55:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:55:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:55:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:55:57 - Forward flow closed due to FIN Flag
+2021-10-11 12:56:27 - You select: input/test_1.pcap
+2021-10-11 12:56:27 - Out folder: output
+2021-10-11 12:56:28 - CICFlowMeter received 1 pcap file
+2021-10-11 12:56:29 - Forward flow closed due to FIN Flag
+2021-10-11 12:56:29 - Forward flow closed due to FIN Flag
+2021-10-11 12:56:29 - Forward flow closed due to FIN Flag
+2021-10-11 12:56:29 - Forward flow closed due to FIN Flag
+2021-10-11 12:56:29 - Forward flow closed due to FIN Flag
+2021-10-11 12:59:07 - You select: input/test_1.pcap
+2021-10-11 12:59:07 - Out folder: output
+2021-10-11 12:59:07 - CICFlowMeter received 1 pcap file
+2021-10-11 12:59:08 - Forward flow closed due to FIN Flag
+2021-10-11 12:59:08 - Forward flow closed due to FIN Flag
+2021-10-11 12:59:08 - Forward flow closed due to FIN Flag
+2021-10-11 12:59:08 - Forward flow closed due to FIN Flag
+2021-10-11 12:59:08 - Forward flow closed due to FIN Flag
+2021-10-31 18:14:23 - You select: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/pcaps/New Text Document (2).txt
+2021-10-31 18:14:23 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agentdata/ids_input
+2021-10-31 18:14:24 - Please select pcap file!
+2021-10-31 18:17:12 - You select: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/pcaps/New Text Document (3).txt
+2021-10-31 18:17:12 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agentdata/ids_input
+2021-10-31 18:17:12 - Please select pcap file!
+2021-10-31 18:18:32 - You select: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/pcaps/New Text Document (3).txt
+2021-10-31 18:18:32 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agentdata/ids_input
+2021-10-31 18:18:33 - Please select pcap file!
+2021-10-31 18:19:03 - You select: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/pcaps/test_pcap.pcap
+2021-10-31 18:19:03 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agentdata/ids_input
+2021-10-31 18:19:03 - CICFlowMeter received 1 pcap file
+2021-10-31 18:19:03 - Error while opening file for capture: truncated dump file; tried to read 24 file header bytes, only got 0
+2021-10-31 19:24:23 - You select: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/pcaps/capture_00001_20211031191709.pcap
+2021-10-31 19:24:23 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/ids_input/
+2021-10-31 19:24:24 - CICFlowMeter received 1 pcap file
+2021-10-31 19:24:24 - Error while opening file for capture: bad dump file format
+2021-10-31 19:24:50 - You select: C:/Users/Padraig/OneDrive - UL/OneDrive - University of Limerick/FYP/ids-agent/data/pcaps/capture_00001_20211031191709.pcap
+2021-10-31 19:24:50 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/ids_input/
+2021-10-31 19:24:51 - CICFlowMeter received 1 pcap file
+2021-10-31 19:24:51 - Error while opening file for capture: bad dump file format
+2021-10-31 19:26:04 - You select: C:/Users/Padraig/OneDrive - UL/OneDrive - University of Limerick/FYP/ids-agent/data/pcaps/capture_00001_20211031191709.pcap
+2021-10-31 19:26:04 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/ids_input/
+2021-10-31 19:26:05 - CICFlowMeter received 1 pcap file
+2021-10-31 19:26:05 - Error while opening file for capture: bad dump file format
+2021-11-03 21:42:32 - You select: D:/VMware/SharedFolder/test.pcap
+2021-11-03 21:42:32 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\ids-agent/data/ids_input/
+2021-11-03 21:42:33 - CICFlowMeter received 1 pcap file
+2022-03-09 09:36:51 - You select: D:/VMware/SharedFolder/test.pcap
+2022-03-09 09:36:51 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\Project\ids-agent/data/ids_input/
+2022-03-09 09:36:58 - CICFlowMeter received 1 pcap file
+2022-03-09 09:41:00 - You select: D:/VMware/SharedFolder/test.pcap
+2022-03-09 09:41:00 - Out folder: C:\Users\Padraig\OneDrive - UL\OneDrive - University of Limerick\FYP\Project\ids-agent/data/ids_input/
+2022-03-09 09:41:01 - CICFlowMeter received 1 pcap file
+2022-03-09 18:26:48 - Please select pcap!
+2022-03-09 19:21:05 - You select: capture.pcap
+2022-03-09 19:21:05 - Out folder: output
+2022-03-09 19:21:05 - CICFlowMeter received 1 pcap file
+2022-03-09 22:03:43 - Please select pcap!
+2022-03-09 22:08:03 - Please select pcap!
+2022-03-09 23:03:42 - You select: ./input/test_1.pcap
+2022-03-09 23:03:42 - Out folder: ./output
+2022-03-09 23:03:42 - CICFlowMeter received 1 pcap file
+2022-03-09 23:06:36 - You select: ./input/test_1.pcap
+2022-03-09 23:06:36 - Out folder: ./output
+2022-03-09 23:06:37 - CICFlowMeter received 1 pcap file
+2022-03-09 23:06:37 - Forward flow closed due to FIN Flag
+2022-03-09 23:06:37 - Forward flow closed due to FIN Flag
+2022-03-09 23:06:38 - Forward flow closed due to FIN Flag
+2022-03-09 23:06:38 - Forward flow closed due to FIN Flag
+2022-03-09 23:06:38 - Forward flow closed due to FIN Flag
+2022-03-09 23:15:51 - You select: capture.pcap
+2022-03-09 23:15:51 - Out folder: ./
+2022-03-09 23:15:51 - CICFlowMeter received 1 pcap file
+2022-03-09 23:18:45 - You select: capture.pcap
+2022-03-09 23:18:45 - Out folder: ./
+2022-03-09 23:18:45 - CICFlowMeter received 1 pcap file
+2022-03-09 23:42:35 - Please select pcap!
+2022-03-09 23:42:48 - Please select pcap!
+2022-03-09 23:43:01 - You select: input/test_1.pcap
+2022-03-09 23:43:01 - Out folder: output/
+2022-03-09 23:43:01 - CICFlowMeter received 1 pcap file
+2022-03-09 23:43:01 - Forward flow closed due to FIN Flag
+2022-03-09 23:43:01 - Forward flow closed due to FIN Flag
+2022-03-09 23:43:02 - Forward flow closed due to FIN Flag
+2022-03-09 23:43:02 - Forward flow closed due to FIN Flag
+2022-03-09 23:43:02 - Forward flow closed due to FIN Flag
+2022-03-09 23:44:54 - You select: input/test_1.pcap
+2022-03-09 23:44:54 - Out folder: output/
+2022-03-09 23:44:54 - CICFlowMeter received 1 pcap file
+2022-03-09 23:44:54 - Forward flow closed due to FIN Flag
+2022-03-09 23:44:54 - Forward flow closed due to FIN Flag
+2022-03-09 23:44:55 - Forward flow closed due to FIN Flag
+2022-03-09 23:44:55 - Forward flow closed due to FIN Flag
+2022-03-09 23:44:55 - Forward flow closed due to FIN Flag
+2022-03-10 16:24:45 - You select: input/capture_00001_20220310162353.pcap
+2022-03-10 16:24:45 - Out folder: output/
+2022-03-10 16:24:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:32 - You select: input/capture_00002_20220310162443.pcap
+2022-03-10 16:25:33 - Out folder: output/
+2022-03-10 16:25:33 - You select: input/capture_00005_20220310162529.pcap
+2022-03-10 16:25:33 - You select: input/capture_00004_20220310162529.pcap
+2022-03-10 16:25:33 - Out folder: output/
+2022-03-10 16:25:33 - Out folder: output/
+2022-03-10 16:25:34 - You select: input/capture_00006_20220310162529.pcap
+2022-03-10 16:25:34 - Out folder: output/
+2022-03-10 16:25:34 - You select: input/capture_00003_20220310162529.pcap
+2022-03-10 16:25:34 - Out folder: output/
+2022-03-10 16:25:35 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:35 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:35 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:36 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:36 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:39 - You select: input/capture_00007_20220310162529.pcap
+2022-03-10 16:25:39 - Out folder: output/
+2022-03-10 16:25:39 - You select: input/capture_00009_20220310162529.pcap
+2022-03-10 16:25:39 - Out folder: output/
+2022-03-10 16:25:40 - You select: input/capture_00010_20220310162529.pcap
+2022-03-10 16:25:40 - Out folder: output/
+2022-03-10 16:25:40 - You select: input/capture_00008_20220310162529.pcap
+2022-03-10 16:25:40 - Out folder: output/
+2022-03-10 16:25:40 - You select: input/capture_00011_20220310162529.pcap
+2022-03-10 16:25:40 - Out folder: output/
+2022-03-10 16:25:40 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:40 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:40 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:44 - You select: input/capture_00012_20220310162529.pcap
+2022-03-10 16:25:44 - Out folder: output/
+2022-03-10 16:25:44 - You select: input/capture_00014_20220310162529.pcap
+2022-03-10 16:25:44 - Out folder: output/
+2022-03-10 16:25:44 - You select: input/capture_00013_20220310162529.pcap
+2022-03-10 16:25:44 - Out folder: output/
+2022-03-10 16:25:44 - You select: input/capture_00015_20220310162529.pcap
+2022-03-10 16:25:44 - Out folder: output/
+2022-03-10 16:25:44 - You select: input/capture_00016_20220310162529.pcap
+2022-03-10 16:25:44 - Out folder: output/
+2022-03-10 16:25:44 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:44 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:47 - You select: input/capture_00017_20220310162529.pcap
+2022-03-10 16:25:47 - Out folder: output/
+2022-03-10 16:25:47 - You select: input/capture_00018_20220310162529.pcap
+2022-03-10 16:25:47 - Out folder: output/
+2022-03-10 16:25:47 - You select: input/capture_00021_20220310162529.pcap
+2022-03-10 16:25:47 - Out folder: output/
+2022-03-10 16:25:48 - You select: input/capture_00019_20220310162529.pcap
+2022-03-10 16:25:48 - Out folder: output/
+2022-03-10 16:25:48 - You select: input/capture_00020_20220310162529.pcap
+2022-03-10 16:25:48 - Out folder: output/
+2022-03-10 16:25:48 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:48 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:48 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:48 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:49 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:51 - You select: input/capture_00022_20220310162529.pcap
+2022-03-10 16:25:51 - Out folder: output/
+2022-03-10 16:25:51 - You select: input/capture_00025_20220310162529.pcap
+2022-03-10 16:25:51 - Out folder: output/
+2022-03-10 16:25:51 - You select: input/capture_00024_20220310162529.pcap
+2022-03-10 16:25:51 - Out folder: output/
+2022-03-10 16:25:51 - You select: input/capture_00023_20220310162529.pcap
+2022-03-10 16:25:51 - Out folder: output/
+2022-03-10 16:25:52 - You select: input/capture_00026_20220310162529.pcap
+2022-03-10 16:25:52 - Out folder: output/
+2022-03-10 16:25:52 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:52 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:52 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:52 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:53 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:55 - You select: input/capture_00027_20220310162529.pcap
+2022-03-10 16:25:55 - Out folder: output/
+2022-03-10 16:25:55 - You select: input/capture_00028_20220310162529.pcap
+2022-03-10 16:25:55 - Out folder: output/
+2022-03-10 16:25:56 - You select: input/capture_00029_20220310162529.pcap
+2022-03-10 16:25:56 - Out folder: output/
+2022-03-10 16:25:56 - You select: input/capture_00031_20220310162529.pcap
+2022-03-10 16:25:56 - Out folder: output/
+2022-03-10 16:25:56 - You select: input/capture_00030_20220310162529.pcap
+2022-03-10 16:25:56 - Out folder: output/
+2022-03-10 16:25:56 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:56 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:56 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:57 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:57 - CICFlowMeter received 1 pcap file
+2022-03-10 16:25:59 - You select: input/capture_00032_20220310162529.pcap
+2022-03-10 16:25:59 - Out folder: output/
+2022-03-10 16:25:59 - You select: input/capture_00034_20220310162529.pcap
+2022-03-10 16:25:59 - Out folder: output/
+2022-03-10 16:25:59 - You select: input/capture_00033_20220310162529.pcap
+2022-03-10 16:25:59 - Out folder: output/
+2022-03-10 16:26:00 - You select: input/capture_00035_20220310162529.pcap
+2022-03-10 16:26:00 - Out folder: output/
+2022-03-10 16:26:00 - You select: input/capture_00036_20220310162529.pcap
+2022-03-10 16:26:00 - Out folder: output/
+2022-03-10 16:26:00 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:00 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:00 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:00 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:03 - You select: input/capture_00037_20220310162529.pcap
+2022-03-10 16:26:03 - Out folder: output/
+2022-03-10 16:26:03 - You select: input/capture_00038_20220310162529.pcap
+2022-03-10 16:26:03 - Out folder: output/
+2022-03-10 16:26:03 - You select: input/capture_00039_20220310162529.pcap
+2022-03-10 16:26:03 - Out folder: output/
+2022-03-10 16:26:03 - You select: input/capture_00041_20220310162529.pcap
+2022-03-10 16:26:03 - Out folder: output/
+2022-03-10 16:26:03 - You select: input/capture_00040_20220310162529.pcap
+2022-03-10 16:26:03 - Out folder: output/
+2022-03-10 16:26:04 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:04 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:04 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:04 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:04 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:07 - You select: input/capture_00042_20220310162530.pcap
+2022-03-10 16:26:07 - Out folder: output/
+2022-03-10 16:26:07 - You select: input/capture_00045_20220310162530.pcap
+2022-03-10 16:26:07 - Out folder: output/
+2022-03-10 16:26:07 - You select: input/capture_00044_20220310162530.pcap
+2022-03-10 16:26:07 - Out folder: output/
+2022-03-10 16:26:07 - You select: input/capture_00043_20220310162530.pcap
+2022-03-10 16:26:07 - Out folder: output/
+2022-03-10 16:26:08 - You select: input/capture_00046_20220310162530.pcap
+2022-03-10 16:26:08 - Out folder: output/
+2022-03-10 16:26:08 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:08 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:09 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:09 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:09 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:13 - You select: input/capture_00048_20220310162530.pcap
+2022-03-10 16:26:13 - Out folder: output/
+2022-03-10 16:26:13 - You select: input/capture_00047_20220310162530.pcap
+2022-03-10 16:26:13 - Out folder: output/
+2022-03-10 16:26:13 - You select: input/capture_00049_20220310162530.pcap
+2022-03-10 16:26:13 - Out folder: output/
+2022-03-10 16:26:14 - You select: input/capture_00050_20220310162530.pcap
+2022-03-10 16:26:14 - Out folder: output/
+2022-03-10 16:26:14 - You select: input/capture_00051_20220310162530.pcap
+2022-03-10 16:26:14 - Out folder: output/
+2022-03-10 16:26:14 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:14 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:17 - You select: input/capture_00052_20220310162530.pcap
+2022-03-10 16:26:17 - Out folder: output/
+2022-03-10 16:26:17 - You select: input/capture_00053_20220310162530.pcap
+2022-03-10 16:26:17 - Out folder: output/
+2022-03-10 16:26:17 - You select: input/capture_00054_20220310162530.pcap
+2022-03-10 16:26:17 - You select: input/capture_00056_20220310162530.pcap
+2022-03-10 16:26:17 - Out folder: output/
+2022-03-10 16:26:17 - Out folder: output/
+2022-03-10 16:26:18 - You select: input/capture_00055_20220310162530.pcap
+2022-03-10 16:26:18 - Out folder: output/
+2022-03-10 16:26:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:21 - You select: input/capture_00057_20220310162530.pcap
+2022-03-10 16:26:21 - Out folder: output/
+2022-03-10 16:26:21 - You select: input/capture_00058_20220310162530.pcap
+2022-03-10 16:26:21 - Out folder: output/
+2022-03-10 16:26:21 - You select: input/capture_00059_20220310162530.pcap
+2022-03-10 16:26:21 - Out folder: output/
+2022-03-10 16:26:21 - You select: input/capture_00060_20220310162530.pcap
+2022-03-10 16:26:21 - Out folder: output/
+2022-03-10 16:26:21 - You select: input/capture_00061_20220310162530.pcap
+2022-03-10 16:26:21 - Out folder: output/
+2022-03-10 16:26:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:25 - You select: input/capture_00062_20220310162530.pcap
+2022-03-10 16:26:25 - Out folder: output/
+2022-03-10 16:26:25 - You select: input/capture_00064_20220310162530.pcap
+2022-03-10 16:26:25 - Out folder: output/
+2022-03-10 16:26:25 - You select: input/capture_00063_20220310162530.pcap
+2022-03-10 16:26:25 - Out folder: output/
+2022-03-10 16:26:25 - You select: input/capture_00066_20220310162530.pcap
+2022-03-10 16:26:25 - Out folder: output/
+2022-03-10 16:26:25 - You select: input/capture_00065_20220310162530.pcap
+2022-03-10 16:26:25 - Out folder: output/
+2022-03-10 16:26:25 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:26 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:26 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:26 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:26 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:28 - You select: input/capture_00067_20220310162531.pcap
+2022-03-10 16:26:28 - Out folder: output/
+2022-03-10 16:26:29 - You select: input/capture_00068_20220310162531.pcap
+2022-03-10 16:26:29 - Out folder: output/
+2022-03-10 16:26:29 - You select: input/capture_00070_20220310162531.pcap
+2022-03-10 16:26:29 - Out folder: output/
+2022-03-10 16:26:29 - You select: input/capture_00069_20220310162531.pcap
+2022-03-10 16:26:29 - Out folder: output/
+2022-03-10 16:26:29 - You select: input/capture_00071_20220310162531.pcap
+2022-03-10 16:26:29 - Out folder: output/
+2022-03-10 16:26:29 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:30 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:30 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:30 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:30 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:32 - You select: input/capture_00072_20220310162531.pcap
+2022-03-10 16:26:32 - Out folder: output/
+2022-03-10 16:26:32 - You select: input/capture_00074_20220310162531.pcap
+2022-03-10 16:26:32 - Out folder: output/
+2022-03-10 16:26:32 - You select: input/capture_00073_20220310162531.pcap
+2022-03-10 16:26:32 - Out folder: output/
+2022-03-10 16:26:32 - You select: input/capture_00076_20220310162531.pcap
+2022-03-10 16:26:32 - Out folder: output/
+2022-03-10 16:26:33 - You select: input/capture_00075_20220310162531.pcap
+2022-03-10 16:26:33 - Out folder: output/
+2022-03-10 16:26:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:34 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:36 - You select: input/capture_00078_20220310162531.pcap
+2022-03-10 16:26:36 - Out folder: output/
+2022-03-10 16:26:36 - You select: input/capture_00077_20220310162531.pcap
+2022-03-10 16:26:36 - Out folder: output/
+2022-03-10 16:26:36 - You select: input/capture_00081_20220310162531.pcap
+2022-03-10 16:26:36 - Out folder: output/
+2022-03-10 16:26:36 - You select: input/capture_00079_20220310162531.pcap
+2022-03-10 16:26:36 - Out folder: output/
+2022-03-10 16:26:36 - You select: input/capture_00080_20220310162531.pcap
+2022-03-10 16:26:36 - Out folder: output/
+2022-03-10 16:26:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:40 - You select: input/capture_00082_20220310162531.pcap
+2022-03-10 16:26:40 - Out folder: output/
+2022-03-10 16:26:40 - You select: input/capture_00083_20220310162531.pcap
+2022-03-10 16:26:40 - Out folder: output/
+2022-03-10 16:26:40 - You select: input/capture_00086_20220310162531.pcap
+2022-03-10 16:26:40 - Out folder: output/
+2022-03-10 16:26:40 - You select: input/capture_00084_20220310162531.pcap
+2022-03-10 16:26:40 - Out folder: output/
+2022-03-10 16:26:41 - You select: input/capture_00085_20220310162531.pcap
+2022-03-10 16:26:41 - Out folder: output/
+2022-03-10 16:26:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:42 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:42 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:44 - You select: input/capture_00087_20220310162531.pcap
+2022-03-10 16:26:44 - Out folder: output/
+2022-03-10 16:26:45 - You select: input/capture_00088_20220310162531.pcap
+2022-03-10 16:26:45 - Out folder: output/
+2022-03-10 16:26:45 - You select: input/capture_00090_20220310162532.pcap
+2022-03-10 16:26:45 - Out folder: output/
+2022-03-10 16:26:45 - You select: input/capture_00089_20220310162532.pcap
+2022-03-10 16:26:45 - Out folder: output/
+2022-03-10 16:26:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:45 - You select: input/capture_00091_20220310162532.pcap
+2022-03-10 16:26:45 - Out folder: output/
+2022-03-10 16:26:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:48 - You select: input/capture_00092_20220310162532.pcap
+2022-03-10 16:26:48 - Out folder: output/
+2022-03-10 16:26:49 - You select: input/capture_00095_20220310162532.pcap
+2022-03-10 16:26:49 - Out folder: output/
+2022-03-10 16:26:49 - You select: input/capture_00093_20220310162532.pcap
+2022-03-10 16:26:49 - Out folder: output/
+2022-03-10 16:26:49 - You select: input/capture_00094_20220310162532.pcap
+2022-03-10 16:26:49 - Out folder: output/
+2022-03-10 16:26:49 - You select: input/capture_00096_20220310162532.pcap
+2022-03-10 16:26:49 - Out folder: output/
+2022-03-10 16:26:49 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:50 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:50 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:50 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:51 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:53 - You select: input/capture_00097_20220310162532.pcap
+2022-03-10 16:26:53 - Out folder: output/
+2022-03-10 16:26:53 - You select: input/capture_00100_20220310162532.pcap
+2022-03-10 16:26:53 - Out folder: output/
+2022-03-10 16:26:53 - You select: input/capture_00098_20220310162532.pcap
+2022-03-10 16:26:53 - Out folder: output/
+2022-03-10 16:26:53 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:54 - You select: input/capture_00099_20220310162532.pcap
+2022-03-10 16:26:54 - Out folder: output/
+2022-03-10 16:26:54 - You select: input/capture_00101_20220310162532.pcap
+2022-03-10 16:26:54 - Out folder: output/
+2022-03-10 16:26:54 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:54 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:54 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:55 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:57 - You select: input/capture_00102_20220310162532.pcap
+2022-03-10 16:26:57 - Out folder: output/
+2022-03-10 16:26:57 - You select: input/capture_00103_20220310162532.pcap
+2022-03-10 16:26:57 - Out folder: output/
+2022-03-10 16:26:57 - You select: input/capture_00104_20220310162532.pcap
+2022-03-10 16:26:57 - Out folder: output/
+2022-03-10 16:26:57 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:57 - You select: input/capture_00105_20220310162532.pcap
+2022-03-10 16:26:57 - Out folder: output/
+2022-03-10 16:26:57 - You select: input/capture_00106_20220310162532.pcap
+2022-03-10 16:26:57 - Out folder: output/
+2022-03-10 16:26:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:59 - CICFlowMeter received 1 pcap file
+2022-03-10 16:26:59 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:00 - You select: input/capture_00109_20220310162533.pcap
+2022-03-10 16:27:00 - Out folder: output/
+2022-03-10 16:27:00 - You select: input/capture_00110_20220310162533.pcap
+2022-03-10 16:27:00 - Out folder: output/
+2022-03-10 16:27:00 - You select: input/capture_00112_20220310162533.pcap
+2022-03-10 16:27:00 - Out folder: output/
+2022-03-10 16:27:00 - You select: input/capture_00108_20220310162533.pcap
+2022-03-10 16:27:00 - Out folder: output/
+2022-03-10 16:27:01 - You select: input/capture_00111_20220310162533.pcap
+2022-03-10 16:27:01 - Out folder: output/
+2022-03-10 16:27:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:02 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:02 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:05 - You select: input/capture_00113_20220310162533.pcap
+2022-03-10 16:27:05 - You select: input/capture_00116_20220310162533.pcap
+2022-03-10 16:27:05 - Out folder: output/
+2022-03-10 16:27:05 - Out folder: output/
+2022-03-10 16:27:05 - You select: input/capture_00115_20220310162533.pcap
+2022-03-10 16:27:05 - Out folder: output/
+2022-03-10 16:27:05 - You select: input/capture_00114_20220310162533.pcap
+2022-03-10 16:27:05 - Out folder: output/
+2022-03-10 16:27:05 - You select: input/capture_00117_20220310162533.pcap
+2022-03-10 16:27:05 - Out folder: output/
+2022-03-10 16:27:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:09 - You select: input/capture_00119_20220310162533.pcap
+2022-03-10 16:27:09 - Out folder: output/
+2022-03-10 16:27:09 - You select: input/capture_00118_20220310162533.pcap
+2022-03-10 16:27:09 - Out folder: output/
+2022-03-10 16:27:09 - You select: input/capture_00120_20220310162533.pcap
+2022-03-10 16:27:09 - Out folder: output/
+2022-03-10 16:27:09 - You select: input/capture_00121_20220310162533.pcap
+2022-03-10 16:27:09 - Out folder: output/
+2022-03-10 16:27:10 - You select: input/capture_00122_20220310162533.pcap
+2022-03-10 16:27:10 - Out folder: output/
+2022-03-10 16:27:10 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:10 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:10 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:13 - You select: input/capture_00123_20220310162533.pcap
+2022-03-10 16:27:13 - You select: input/capture_00124_20220310162533.pcap
+2022-03-10 16:27:13 - Out folder: output/
+2022-03-10 16:27:13 - Out folder: output/
+2022-03-10 16:27:13 - You select: input/capture_00125_20220310162533.pcap
+2022-03-10 16:27:13 - Out folder: output/
+2022-03-10 16:27:14 - You select: input/capture_00127_20220310162533.pcap
+2022-03-10 16:27:14 - Out folder: output/
+2022-03-10 16:27:14 - You select: input/capture_00126_20220310162533.pcap
+2022-03-10 16:27:14 - Out folder: output/
+2022-03-10 16:27:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:16 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:16 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:18 - You select: input/capture_00128_20220310162533.pcap
+2022-03-10 16:27:18 - Out folder: output/
+2022-03-10 16:27:18 - You select: input/capture_00129_20220310162534.pcap
+2022-03-10 16:27:18 - Out folder: output/
+2022-03-10 16:27:18 - You select: input/capture_00131_20220310162534.pcap
+2022-03-10 16:27:18 - Out folder: output/
+2022-03-10 16:27:18 - You select: input/capture_00130_20220310162534.pcap
+2022-03-10 16:27:18 - Out folder: output/
+2022-03-10 16:27:19 - You select: input/capture_00132_20220310162534.pcap
+2022-03-10 16:27:19 - Out folder: output/
+2022-03-10 16:27:19 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:19 - Please select pcap file!
+2022-03-10 16:27:19 - CICFlowMeter received 1 pcap file
+2022-03-10 16:27:20 - Error while opening file for capture: input/capture_00128_20220310162533.pcap: No such file or directory
+2022-03-10 16:27:20 - Please select pcap file!
+2022-03-10 16:27:20 - Error while opening file for capture: input/capture_00129_20220310162534.pcap: No such file or directory
+2022-03-10 16:27:20 - Please select pcap file!
+2022-03-10 16:27:21 - The pcap file or folder does not exist! -> input/capture_00135_20220310162534.pcap
+2022-03-10 16:27:21 - The pcap file or folder does not exist! -> input/capture_00133_20220310162534.pcap
+2022-03-10 16:27:21 - The pcap file or folder does not exist! -> input/capture_00136_20220310162534.pcap
+2022-03-10 16:27:21 - The pcap file or folder does not exist! -> input/capture_00134_20220310162534.pcap
+2022-03-10 16:27:21 - The pcap file or folder does not exist! -> input/capture_00137_20220310162534.pcap
+2022-03-10 16:27:22 - The pcap file or folder does not exist! -> input/capture_00140_20220310162541.pcap
+2022-03-10 16:27:22 - The pcap file or folder does not exist! -> input/capture_00138_20220310162534.pcap
+2022-03-10 16:27:22 - The pcap file or folder does not exist! -> input/capture_00139_20220310162534.pcap
+2022-03-10 16:28:05 - You select: input/capture_00002_20220310162800.pcap
+2022-03-10 16:28:05 - Out folder: output/
+2022-03-10 16:28:05 - You select: input/capture_00005_20220310162800.pcap
+2022-03-10 16:28:05 - You select: input/capture_00003_20220310162800.pcap
+2022-03-10 16:28:05 - Out folder: output/
+2022-03-10 16:28:05 - Out folder: output/
+2022-03-10 16:28:05 - You select: input/capture_00004_20220310162800.pcap
+2022-03-10 16:28:06 - Out folder: output/
+2022-03-10 16:28:06 - You select: input/capture_00001_20220310162738.pcap
+2022-03-10 16:28:06 - Out folder: output/
+2022-03-10 16:28:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:12 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:12 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:12 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:12 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:20 - You select: input/capture_00006_20220310162800.pcap
+2022-03-10 16:28:20 - Out folder: output/
+2022-03-10 16:28:20 - You select: input/capture_00007_20220310162800.pcap
+2022-03-10 16:28:20 - Out folder: output/
+2022-03-10 16:28:20 - You select: input/capture_00008_20220310162800.pcap
+2022-03-10 16:28:20 - You select: input/capture_00009_20220310162800.pcap
+2022-03-10 16:28:20 - Out folder: output/
+2022-03-10 16:28:20 - Out folder: output/
+2022-03-10 16:28:20 - You select: input/capture_00010_20220310162800.pcap
+2022-03-10 16:28:20 - Out folder: output/
+2022-03-10 16:28:20 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:21 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:21 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:21 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:21 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:24 - You select: input/capture_00011_20220310162800.pcap
+2022-03-10 16:28:24 - Out folder: output/
+2022-03-10 16:28:24 - You select: input/capture_00013_20220310162800.pcap
+2022-03-10 16:28:24 - Out folder: output/
+2022-03-10 16:28:24 - You select: input/capture_00012_20220310162800.pcap
+2022-03-10 16:28:24 - Out folder: output/
+2022-03-10 16:28:24 - You select: input/capture_00015_20220310162800.pcap
+2022-03-10 16:28:24 - Out folder: output/
+2022-03-10 16:28:24 - You select: input/capture_00014_20220310162800.pcap
+2022-03-10 16:28:24 - Out folder: output/
+2022-03-10 16:28:25 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:25 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:25 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:25 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:25 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:28 - You select: input/capture_00016_20220310162801.pcap
+2022-03-10 16:28:28 - Out folder: output/
+2022-03-10 16:28:30 - You select: input/capture_00019_20220310162801.pcap
+2022-03-10 16:28:30 - Out folder: output/
+2022-03-10 16:28:30 - You select: input/capture_00020_20220310162801.pcap
+2022-03-10 16:28:30 - Out folder: output/
+2022-03-10 16:28:30 - You select: input/capture_00017_20220310162801.pcap
+2022-03-10 16:28:30 - Out folder: output/
+2022-03-10 16:28:29 - You select: input/capture_00018_20220310162801.pcap
+2022-03-10 16:28:29 - Out folder: output/
+2022-03-10 16:28:29 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:29 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:29 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:29 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:30 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:32 - You select: input/capture_00021_20220310162801.pcap
+2022-03-10 16:28:32 - Out folder: output/
+2022-03-10 16:28:32 - You select: input/capture_00022_20220310162801.pcap
+2022-03-10 16:28:32 - Out folder: output/
+2022-03-10 16:28:32 - You select: input/capture_00024_20220310162801.pcap
+2022-03-10 16:28:32 - Out folder: output/
+2022-03-10 16:28:32 - You select: input/capture_00023_20220310162801.pcap
+2022-03-10 16:28:32 - Out folder: output/
+2022-03-10 16:28:32 - You select: input/capture_00025_20220310162801.pcap
+2022-03-10 16:28:32 - Out folder: output/
+2022-03-10 16:28:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:33 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:36 - You select: input/capture_00026_20220310162801.pcap
+2022-03-10 16:28:36 - Out folder: output/
+2022-03-10 16:28:36 - You select: input/capture_00027_20220310162801.pcap
+2022-03-10 16:28:36 - Out folder: output/
+2022-03-10 16:28:36 - You select: input/capture_00029_20220310162801.pcap
+2022-03-10 16:28:36 - Out folder: output/
+2022-03-10 16:28:36 - You select: input/capture_00028_20220310162801.pcap
+2022-03-10 16:28:36 - Out folder: output/
+2022-03-10 16:28:37 - You select: input/capture_00030_20220310162801.pcap
+2022-03-10 16:28:37 - Out folder: output/
+2022-03-10 16:28:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:40 - You select: input/capture_00031_20220310162801.pcap
+2022-03-10 16:28:40 - Out folder: output/
+2022-03-10 16:28:40 - You select: input/capture_00032_20220310162801.pcap
+2022-03-10 16:28:40 - Out folder: output/
+2022-03-10 16:28:40 - You select: input/capture_00033_20220310162801.pcap
+2022-03-10 16:28:40 - Out folder: output/
+2022-03-10 16:28:40 - You select: input/capture_00034_20220310162801.pcap
+2022-03-10 16:28:40 - Out folder: output/
+2022-03-10 16:28:40 - You select: input/capture_00035_20220310162801.pcap
+2022-03-10 16:28:40 - Out folder: output/
+2022-03-10 16:28:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:41 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:44 - You select: input/capture_00036_20220310162801.pcap
+2022-03-10 16:28:44 - Out folder: output/
+2022-03-10 16:28:44 - You select: input/capture_00038_20220310162801.pcap
+2022-03-10 16:28:44 - Out folder: output/
+2022-03-10 16:28:44 - You select: input/capture_00037_20220310162801.pcap
+2022-03-10 16:28:44 - Out folder: output/
+2022-03-10 16:28:44 - You select: input/capture_00039_20220310162801.pcap
+2022-03-10 16:28:44 - Out folder: output/
+2022-03-10 16:28:44 - You select: input/capture_00040_20220310162801.pcap
+2022-03-10 16:28:45 - Out folder: output/
+2022-03-10 16:28:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:48 - You select: input/capture_00043_20220310162801.pcap
+2022-03-10 16:28:48 - Out folder: output/
+2022-03-10 16:28:48 - You select: input/capture_00042_20220310162801.pcap
+2022-03-10 16:28:48 - Out folder: output/
+2022-03-10 16:28:48 - You select: input/capture_00041_20220310162801.pcap
+2022-03-10 16:28:48 - Out folder: output/
+2022-03-10 16:28:48 - You select: input/capture_00044_20220310162801.pcap
+2022-03-10 16:28:48 - Out folder: output/
+2022-03-10 16:28:49 - You select: input/capture_00045_20220310162801.pcap
+2022-03-10 16:28:49 - Out folder: output/
+2022-03-10 16:28:49 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:49 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:49 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:50 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:50 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:52 - You select: input/capture_00046_20220310162801.pcap
+2022-03-10 16:28:52 - Out folder: output/
+2022-03-10 16:28:52 - You select: input/capture_00047_20220310162801.pcap
+2022-03-10 16:28:52 - Out folder: output/
+2022-03-10 16:28:53 - You select: input/capture_00048_20220310162801.pcap
+2022-03-10 16:28:53 - Out folder: output/
+2022-03-10 16:28:53 - You select: input/capture_00049_20220310162801.pcap
+2022-03-10 16:28:53 - Out folder: output/
+2022-03-10 16:28:53 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:53 - You select: input/capture_00050_20220310162801.pcap
+2022-03-10 16:28:53 - Out folder: output/
+2022-03-10 16:28:53 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:54 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:54 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:54 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:56 - You select: input/capture_00051_20220310162801.pcap
+2022-03-10 16:28:56 - Out folder: output/
+2022-03-10 16:28:57 - You select: input/capture_00053_20220310162801.pcap
+2022-03-10 16:28:57 - Out folder: output/
+2022-03-10 16:28:57 - You select: input/capture_00052_20220310162801.pcap
+2022-03-10 16:28:57 - Out folder: output/
+2022-03-10 16:28:57 - You select: input/capture_00054_20220310162801.pcap
+2022-03-10 16:28:57 - Out folder: output/
+2022-03-10 16:28:57 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:58 - You select: input/capture_00055_20220310162802.pcap
+2022-03-10 16:28:58 - Out folder: output/
+2022-03-10 16:28:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:28:59 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:00 - You select: input/capture_00056_20220310162802.pcap
+2022-03-10 16:29:00 - Out folder: output/
+2022-03-10 16:29:01 - You select: input/capture_00058_20220310162802.pcap
+2022-03-10 16:29:01 - Out folder: output/
+2022-03-10 16:29:01 - You select: input/capture_00057_20220310162802.pcap
+2022-03-10 16:29:01 - Out folder: output/
+2022-03-10 16:29:01 - You select: input/capture_00059_20220310162802.pcap
+2022-03-10 16:29:01 - Out folder: output/
+2022-03-10 16:29:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:01 - You select: input/capture_00060_20220310162802.pcap
+2022-03-10 16:29:01 - Out folder: output/
+2022-03-10 16:29:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:02 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:02 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:02 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:04 - You select: input/capture_00061_20220310162802.pcap
+2022-03-10 16:29:04 - Out folder: output/
+2022-03-10 16:29:04 - You select: input/capture_00062_20220310162802.pcap
+2022-03-10 16:29:04 - Out folder: output/
+2022-03-10 16:29:05 - You select: input/capture_00063_20220310162802.pcap
+2022-03-10 16:29:05 - Out folder: output/
+2022-03-10 16:29:05 - You select: input/capture_00064_20220310162802.pcap
+2022-03-10 16:29:05 - Out folder: output/
+2022-03-10 16:29:05 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:05 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:05 - You select: input/capture_00065_20220310162802.pcap
+2022-03-10 16:29:05 - Out folder: output/
+2022-03-10 16:29:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:08 - You select: input/capture_00067_20220310162802.pcap
+2022-03-10 16:29:08 - Out folder: output/
+2022-03-10 16:29:08 - You select: input/capture_00066_20220310162802.pcap
+2022-03-10 16:29:08 - Out folder: output/
+2022-03-10 16:29:09 - You select: input/capture_00069_20220310162802.pcap
+2022-03-10 16:29:09 - Out folder: output/
+2022-03-10 16:29:09 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:09 - You select: input/capture_00068_20220310162802.pcap
+2022-03-10 16:29:09 - Out folder: output/
+2022-03-10 16:29:09 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:09 - You select: input/capture_00070_20220310162802.pcap
+2022-03-10 16:29:09 - Out folder: output/
+2022-03-10 16:29:10 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:10 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:12 - You select: input/capture_00071_20220310162802.pcap
+2022-03-10 16:29:12 - Out folder: output/
+2022-03-10 16:29:12 - You select: input/capture_00072_20220310162802.pcap
+2022-03-10 16:29:12 - Out folder: output/
+2022-03-10 16:29:13 - You select: input/capture_00073_20220310162802.pcap
+2022-03-10 16:29:13 - Out folder: output/
+2022-03-10 16:29:13 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:13 - You select: input/capture_00074_20220310162802.pcap
+2022-03-10 16:29:13 - Out folder: output/
+2022-03-10 16:29:13 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:13 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:14 - You select: input/capture_00075_20220310162802.pcap
+2022-03-10 16:29:14 - Out folder: output/
+2022-03-10 16:29:14 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:16 - You select: input/capture_00076_20220310162802.pcap
+2022-03-10 16:29:16 - Out folder: output/
+2022-03-10 16:29:17 - You select: input/capture_00078_20220310162802.pcap
+2022-03-10 16:29:17 - Out folder: output/
+2022-03-10 16:29:17 - You select: input/capture_00077_20220310162802.pcap
+2022-03-10 16:29:17 - Out folder: output/
+2022-03-10 16:29:17 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:17 - You select: input/capture_00079_20220310162802.pcap
+2022-03-10 16:29:17 - Out folder: output/
+2022-03-10 16:29:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:18 - You select: input/capture_00080_20220310162802.pcap
+2022-03-10 16:29:18 - Out folder: output/
+2022-03-10 16:29:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:19 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:20 - You select: input/capture_00081_20220310162802.pcap
+2022-03-10 16:29:20 - Out folder: output/
+2022-03-10 16:29:21 - You select: input/capture_00083_20220310162802.pcap
+2022-03-10 16:29:21 - Out folder: output/
+2022-03-10 16:29:21 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:21 - You select: input/capture_00082_20220310162802.pcap
+2022-03-10 16:29:21 - Out folder: output/
+2022-03-10 16:29:22 - You select: input/capture_00085_20220310162803.pcap
+2022-03-10 16:29:22 - Out folder: output/
+2022-03-10 16:29:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:22 - You select: input/capture_00084_20220310162803.pcap
+2022-03-10 16:29:22 - Out folder: output/
+2022-03-10 16:29:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:23 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:23 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:24 - You select: input/capture_00086_20220310162803.pcap
+2022-03-10 16:29:24 - Out folder: output/
+2022-03-10 16:29:25 - You select: input/capture_00087_20220310162803.pcap
+2022-03-10 16:29:25 - Out folder: output/
+2022-03-10 16:29:25 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:25 - You select: input/capture_00088_20220310162803.pcap
+2022-03-10 16:29:25 - Out folder: output/
+2022-03-10 16:29:26 - You select: input/capture_00089_20220310162803.pcap
+2022-03-10 16:29:26 - Out folder: output/
+2022-03-10 16:29:26 - You select: input/capture_00090_20220310162803.pcap
+2022-03-10 16:29:26 - Out folder: output/
+2022-03-10 16:29:26 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:26 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:27 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:27 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:29 - You select: input/capture_00091_20220310162803.pcap
+2022-03-10 16:29:29 - Out folder: output/
+2022-03-10 16:29:29 - You select: input/capture_00092_20220310162803.pcap
+2022-03-10 16:29:29 - Out folder: output/
+2022-03-10 16:29:29 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:30 - You select: input/capture_00093_20220310162803.pcap
+2022-03-10 16:29:30 - Out folder: output/
+2022-03-10 16:29:30 - You select: input/capture_00094_20220310162803.pcap
+2022-03-10 16:29:30 - Out folder: output/
+2022-03-10 16:29:30 - You select: input/capture_00095_20220310162803.pcap
+2022-03-10 16:29:30 - Out folder: output/
+2022-03-10 16:29:30 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:30 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:31 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:31 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:33 - You select: input/capture_00096_20220310162803.pcap
+2022-03-10 16:29:33 - Out folder: output/
+2022-03-10 16:29:33 - You select: input/capture_00097_20220310162803.pcap
+2022-03-10 16:29:33 - Out folder: output/
+2022-03-10 16:29:34 - You select: input/capture_00098_20220310162803.pcap
+2022-03-10 16:29:34 - Out folder: output/
+2022-03-10 16:29:34 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:34 - You select: input/capture_00100_20220310162803.pcap
+2022-03-10 16:29:34 - Out folder: output/
+2022-03-10 16:29:34 - You select: input/capture_00099_20220310162803.pcap
+2022-03-10 16:29:34 - Out folder: output/
+2022-03-10 16:29:34 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:34 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:35 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:35 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:37 - You select: input/capture_00101_20220310162803.pcap
+2022-03-10 16:29:37 - Out folder: output/
+2022-03-10 16:29:37 - You select: input/capture_00102_20220310162803.pcap
+2022-03-10 16:29:37 - Out folder: output/
+2022-03-10 16:29:38 - You select: input/capture_00104_20220310162803.pcap
+2022-03-10 16:29:38 - Out folder: output/
+2022-03-10 16:29:38 - You select: input/capture_00103_20220310162803.pcap
+2022-03-10 16:29:38 - Out folder: output/
+2022-03-10 16:29:38 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:38 - You select: input/capture_00105_20220310162803.pcap
+2022-03-10 16:29:38 - Out folder: output/
+2022-03-10 16:29:38 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:38 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:39 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:39 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:41 - You select: input/capture_00107_20220310162803.pcap
+2022-03-10 16:29:41 - Out folder: output/
+2022-03-10 16:29:41 - You select: input/capture_00106_20220310162803.pcap
+2022-03-10 16:29:41 - Out folder: output/
+2022-03-10 16:29:42 - You select: input/capture_00109_20220310162803.pcap
+2022-03-10 16:29:42 - Out folder: output/
+2022-03-10 16:29:42 - You select: input/capture_00110_20220310162803.pcap
+2022-03-10 16:29:42 - Out folder: output/
+2022-03-10 16:29:42 - You select: input/capture_00108_20220310162803.pcap
+2022-03-10 16:29:42 - Out folder: output/
+2022-03-10 16:29:42 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:42 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:43 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:43 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:43 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:45 - You select: input/capture_00111_20220310162803.pcap
+2022-03-10 16:29:45 - Out folder: output/
+2022-03-10 16:29:45 - You select: input/capture_00112_20220310162803.pcap
+2022-03-10 16:29:45 - Out folder: output/
+2022-03-10 16:29:46 - You select: input/capture_00113_20220310162803.pcap
+2022-03-10 16:29:46 - Out folder: output/
+2022-03-10 16:29:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:46 - You select: input/capture_00114_20220310162803.pcap
+2022-03-10 16:29:46 - Out folder: output/
+2022-03-10 16:29:46 - You select: input/capture_00115_20220310162804.pcap
+2022-03-10 16:29:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:46 - Out folder: output/
+2022-03-10 16:29:47 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:47 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:47 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:49 - You select: input/capture_00116_20220310162804.pcap
+2022-03-10 16:29:49 - Out folder: output/
+2022-03-10 16:29:49 - You select: input/capture_00117_20220310162804.pcap
+2022-03-10 16:29:49 - Out folder: output/
+2022-03-10 16:29:50 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:50 - You select: input/capture_00119_20220310162804.pcap
+2022-03-10 16:29:50 - Out folder: output/
+2022-03-10 16:29:50 - You select: input/capture_00118_20220310162804.pcap
+2022-03-10 16:29:50 - Out folder: output/
+2022-03-10 16:29:50 - You select: input/capture_00120_20220310162804.pcap
+2022-03-10 16:29:50 - Out folder: output/
+2022-03-10 16:29:50 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:51 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:51 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:51 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:53 - You select: input/capture_00121_20220310162804.pcap
+2022-03-10 16:29:53 - Out folder: output/
+2022-03-10 16:29:53 - You select: input/capture_00122_20220310162804.pcap
+2022-03-10 16:29:53 - Out folder: output/
+2022-03-10 16:29:54 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:54 - You select: input/capture_00123_20220310162804.pcap
+2022-03-10 16:29:54 - Out folder: output/
+2022-03-10 16:29:54 - You select: input/capture_00125_20220310162804.pcap
+2022-03-10 16:29:54 - Out folder: output/
+2022-03-10 16:29:54 - You select: input/capture_00124_20220310162804.pcap
+2022-03-10 16:29:54 - Out folder: output/
+2022-03-10 16:29:54 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:55 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:55 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:55 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:57 - You select: input/capture_00126_20220310162804.pcap
+2022-03-10 16:29:57 - Out folder: output/
+2022-03-10 16:29:57 - You select: input/capture_00127_20220310162804.pcap
+2022-03-10 16:29:57 - Out folder: output/
+2022-03-10 16:29:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:58 - You select: input/capture_00129_20220310162805.pcap
+2022-03-10 16:29:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:58 - You select: input/capture_00128_20220310162805.pcap
+2022-03-10 16:29:58 - Out folder: output/
+2022-03-10 16:29:58 - Out folder: output/
+2022-03-10 16:29:58 - You select: input/capture_00130_20220310162805.pcap
+2022-03-10 16:29:58 - Out folder: output/
+2022-03-10 16:29:59 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:59 - CICFlowMeter received 1 pcap file
+2022-03-10 16:29:59 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:01 - You select: input/capture_00131_20220310162805.pcap
+2022-03-10 16:30:01 - Out folder: output/
+2022-03-10 16:30:01 - You select: input/capture_00132_20220310162805.pcap
+2022-03-10 16:30:01 - Out folder: output/
+2022-03-10 16:30:02 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:02 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:02 - You select: input/capture_00133_20220310162805.pcap
+2022-03-10 16:30:02 - Out folder: output/
+2022-03-10 16:30:02 - You select: input/capture_00134_20220310162805.pcap
+2022-03-10 16:30:02 - Out folder: output/
+2022-03-10 16:30:02 - You select: input/capture_00135_20220310162805.pcap
+2022-03-10 16:30:02 - Out folder: output/
+2022-03-10 16:30:03 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:03 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:04 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:05 - You select: input/capture_00136_20220310162805.pcap
+2022-03-10 16:30:05 - Out folder: output/
+2022-03-10 16:30:05 - You select: input/capture_00137_20220310162805.pcap
+2022-03-10 16:30:05 - Out folder: output/
+2022-03-10 16:30:06 - You select: input/capture_00138_20220310162805.pcap
+2022-03-10 16:30:06 - Out folder: output/
+2022-03-10 16:30:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:06 - You select: input/capture_00139_20220310162805.pcap
+2022-03-10 16:30:06 - Out folder: output/
+2022-03-10 16:30:07 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:07 - You select: input/capture_00140_20220310162805.pcap
+2022-03-10 16:30:07 - Out folder: output/
+2022-03-10 16:30:07 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:08 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:09 - You select: input/capture_00141_20220310162805.pcap
+2022-03-10 16:30:09 - Out folder: output/
+2022-03-10 16:30:09 - You select: input/capture_00142_20220310162805.pcap
+2022-03-10 16:30:10 - Out folder: output/
+2022-03-10 16:30:10 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:10 - You select: input/capture_00143_20220310162805.pcap
+2022-03-10 16:30:10 - Out folder: output/
+2022-03-10 16:30:10 - You select: input/capture_00144_20220310162806.pcap
+2022-03-10 16:30:10 - Out folder: output/
+2022-03-10 16:30:10 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:11 - You select: input/capture_00145_20220310162806.pcap
+2022-03-10 16:30:11 - Out folder: output/
+2022-03-10 16:30:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:12 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:13 - You select: input/capture_00146_20220310162806.pcap
+2022-03-10 16:30:13 - Out folder: output/
+2022-03-10 16:30:13 - You select: input/capture_00147_20220310162806.pcap
+2022-03-10 16:30:13 - Out folder: output/
+2022-03-10 16:30:14 - You select: input/capture_00148_20220310162806.pcap
+2022-03-10 16:30:14 - Out folder: output/
+2022-03-10 16:30:14 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:14 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:14 - You select: input/capture_00149_20220310162806.pcap
+2022-03-10 16:30:15 - Out folder: output/
+2022-03-10 16:30:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:15 - You select: input/capture_00150_20220310162806.pcap
+2022-03-10 16:30:15 - Out folder: output/
+2022-03-10 16:30:15 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:16 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:17 - You select: input/capture_00152_20220310162806.pcap
+2022-03-10 16:30:17 - Out folder: output/
+2022-03-10 16:30:17 - You select: input/capture_00151_20220310162806.pcap
+2022-03-10 16:30:17 - Out folder: output/
+2022-03-10 16:30:18 - You select: input/capture_00153_20220310162806.pcap
+2022-03-10 16:30:18 - Out folder: output/
+2022-03-10 16:30:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:18 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:18 - You select: input/capture_00154_20220310162806.pcap
+2022-03-10 16:30:18 - Out folder: output/
+2022-03-10 16:30:19 - You select: input/capture_00155_20220310162806.pcap
+2022-03-10 16:30:19 - Out folder: output/
+2022-03-10 16:30:19 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:19 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:20 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:21 - You select: input/capture_00156_20220310162806.pcap
+2022-03-10 16:30:21 - Out folder: output/
+2022-03-10 16:30:22 - You select: input/capture_00157_20220310162806.pcap
+2022-03-10 16:30:22 - Out folder: output/
+2022-03-10 16:30:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:22 - You select: input/capture_00158_20220310162806.pcap
+2022-03-10 16:30:22 - Out folder: output/
+2022-03-10 16:30:22 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:23 - You select: input/capture_00159_20220310162806.pcap
+2022-03-10 16:30:23 - Out folder: output/
+2022-03-10 16:30:23 - You select: input/capture_00160_20220310162806.pcap
+2022-03-10 16:30:23 - Out folder: output/
+2022-03-10 16:30:23 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:24 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:24 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:25 - You select: input/capture_00161_20220310162806.pcap
+2022-03-10 16:30:25 - Out folder: output/
+2022-03-10 16:30:26 - You select: input/capture_00162_20220310162806.pcap
+2022-03-10 16:30:26 - Out folder: output/
+2022-03-10 16:30:26 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:26 - You select: input/capture_00163_20220310162806.pcap
+2022-03-10 16:30:26 - Out folder: output/
+2022-03-10 16:30:26 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:27 - You select: input/capture_00164_20220310162806.pcap
+2022-03-10 16:30:27 - Out folder: output/
+2022-03-10 16:30:27 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:27 - You select: input/capture_00165_20220310162806.pcap
+2022-03-10 16:30:27 - Out folder: output/
+2022-03-10 16:30:28 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:28 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:29 - You select: input/capture_00166_20220310162807.pcap
+2022-03-10 16:30:29 - Out folder: output/
+2022-03-10 16:30:30 - You select: input/capture_00167_20220310162807.pcap
+2022-03-10 16:30:30 - Out folder: output/
+2022-03-10 16:30:30 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:30 - You select: input/capture_00168_20220310162807.pcap
+2022-03-10 16:30:30 - Out folder: output/
+2022-03-10 16:30:31 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:31 - You select: input/capture_00170_20220310162807.pcap
+2022-03-10 16:30:31 - Out folder: output/
+2022-03-10 16:30:31 - You select: input/capture_00169_20220310162807.pcap
+2022-03-10 16:30:31 - Out folder: output/
+2022-03-10 16:30:31 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:32 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:32 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:34 - You select: input/capture_00171_20220310162807.pcap
+2022-03-10 16:30:34 - Out folder: output/
+2022-03-10 16:30:34 - You select: input/capture_00172_20220310162807.pcap
+2022-03-10 16:30:34 - Out folder: output/
+2022-03-10 16:30:34 - You select: input/capture_00173_20220310162807.pcap
+2022-03-10 16:30:34 - Out folder: output/
+2022-03-10 16:30:35 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:35 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:35 - You select: input/capture_00174_20220310162807.pcap
+2022-03-10 16:30:35 - Out folder: output/
+2022-03-10 16:30:35 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:36 - You select: input/capture_00175_20220310162807.pcap
+2022-03-10 16:30:36 - Out folder: output/
+2022-03-10 16:30:36 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:37 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:37 - You select: input/capture_00176_20220310162807.pcap
+2022-03-10 16:30:37 - Out folder: output/
+2022-03-10 16:30:38 - You select: input/capture_00177_20220310162807.pcap
+2022-03-10 16:30:38 - Out folder: output/
+2022-03-10 16:30:38 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:38 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:39 - You select: input/capture_00178_20220310162807.pcap
+2022-03-10 16:30:39 - Out folder: output/
+2022-03-10 16:30:39 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:39 - You select: input/capture_00179_20220310162807.pcap
+2022-03-10 16:30:39 - Out folder: output/
+2022-03-10 16:30:40 - You select: input/capture_00180_20220310162807.pcap
+2022-03-10 16:30:40 - Out folder: output/
+2022-03-10 16:30:40 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:40 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:42 - You select: input/capture_00182_20220310162807.pcap
+2022-03-10 16:30:42 - Out folder: output/
+2022-03-10 16:30:42 - You select: input/capture_00181_20220310162807.pcap
+2022-03-10 16:30:42 - Out folder: output/
+2022-03-10 16:30:43 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:43 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:43 - You select: input/capture_00183_20220310162807.pcap
+2022-03-10 16:30:43 - Out folder: output/
+2022-03-10 16:30:43 - You select: input/capture_00184_20220310162807.pcap
+2022-03-10 16:30:43 - Out folder: output/
+2022-03-10 16:30:43 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:44 - You select: input/capture_00185_20220310162807.pcap
+2022-03-10 16:30:44 - Out folder: output/
+2022-03-10 16:30:44 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:45 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:46 - You select: input/capture_00186_20220310162808.pcap
+2022-03-10 16:30:46 - Out folder: output/
+2022-03-10 16:30:46 - You select: input/capture_00187_20220310162808.pcap
+2022-03-10 16:30:46 - Out folder: output/
+2022-03-10 16:30:46 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:47 - You select: input/capture_00188_20220310162808.pcap
+2022-03-10 16:30:47 - Out folder: output/
+2022-03-10 16:30:47 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:48 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:48 - You select: input/capture_00189_20220310162808.pcap
+2022-03-10 16:30:48 - Out folder: output/
+2022-03-10 16:30:48 - You select: input/capture_00190_20220310162808.pcap
+2022-03-10 16:30:48 - Out folder: output/
+2022-03-10 16:30:49 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:49 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:50 - You select: input/capture_00192_20220310162808.pcap
+2022-03-10 16:30:50 - Out folder: output/
+2022-03-10 16:30:50 - You select: input/capture_00191_20220310162808.pcap
+2022-03-10 16:30:50 - Out folder: output/
+2022-03-10 16:30:51 - You select: input/capture_00193_20220310162808.pcap
+2022-03-10 16:30:51 - Out folder: output/
+2022-03-10 16:30:51 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:51 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:52 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:52 - You select: input/capture_00195_20220310162808.pcap
+2022-03-10 16:30:52 - Out folder: output/
+2022-03-10 16:30:52 - You select: input/capture_00194_20220310162808.pcap
+2022-03-10 16:30:52 - Out folder: output/
+2022-03-10 16:30:53 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:53 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:55 - You select: input/capture_00196_20220310162808.pcap
+2022-03-10 16:30:55 - Out folder: output/
+2022-03-10 16:30:55 - You select: input/capture_00197_20220310162808.pcap
+2022-03-10 16:30:55 - Out folder: output/
+2022-03-10 16:30:55 - You select: input/capture_00198_20220310162808.pcap
+2022-03-10 16:30:55 - Out folder: output/
+2022-03-10 16:30:55 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:55 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:56 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:56 - You select: input/capture_00199_20220310162808.pcap
+2022-03-10 16:30:56 - Out folder: output/
+2022-03-10 16:30:56 - You select: input/capture_00200_20220310162808.pcap
+2022-03-10 16:30:56 - Out folder: output/
+2022-03-10 16:30:57 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:57 - CICFlowMeter received 1 pcap file
+2022-03-10 16:30:58 - You select: input/capture_00201_20220310162808.pcap
+2022-03-10 16:30:58 - Out folder: output/
+2022-03-10 16:30:59 - You select: input/capture_00202_20220310162808.pcap
+2022-03-10 16:30:59 - Out folder: output/
+2022-03-10 16:30:59 - You select: input/capture_00203_20220310162808.pcap
+2022-03-10 16:30:59 - Out folder: output/
+2022-03-10 16:30:59 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:00 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:00 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:00 - You select: input/capture_00204_20220310162809.pcap
+2022-03-10 16:31:00 - Out folder: output/
+2022-03-10 16:31:01 - You select: input/capture_00205_20220310162809.pcap
+2022-03-10 16:31:01 - Out folder: output/
+2022-03-10 16:31:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:02 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:03 - You select: input/capture_00206_20220310162809.pcap
+2022-03-10 16:31:03 - Out folder: output/
+2022-03-10 16:31:03 - You select: input/capture_00207_20220310162809.pcap
+2022-03-10 16:31:03 - Out folder: output/
+2022-03-10 16:31:03 - You select: input/capture_00208_20220310162809.pcap
+2022-03-10 16:31:03 - Out folder: output/
+2022-03-10 16:31:03 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:04 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:04 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:04 - You select: input/capture_00209_20220310162809.pcap
+2022-03-10 16:31:04 - Out folder: output/
+2022-03-10 16:31:05 - You select: input/capture_00210_20220310162809.pcap
+2022-03-10 16:31:05 - Out folder: output/
+2022-03-10 16:31:05 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:06 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:06 - You select: input/capture_00211_20220310162809.pcap
+2022-03-10 16:31:06 - Out folder: output/
+2022-03-10 16:31:07 - You select: input/capture_00212_20220310162809.pcap
+2022-03-10 16:31:07 - Out folder: output/
+2022-03-10 16:31:07 - You select: input/capture_00213_20220310162809.pcap
+2022-03-10 16:31:07 - Out folder: output/
+2022-03-10 16:31:07 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:08 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:08 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:09 - You select: input/capture_00214_20220310162809.pcap
+2022-03-10 16:31:09 - Out folder: output/
+2022-03-10 16:31:09 - You select: input/capture_00215_20220310162809.pcap
+2022-03-10 16:31:09 - Out folder: output/
+2022-03-10 16:31:10 - You select: input/capture_00220_20220310162809.pcap
+2022-03-10 16:31:10 - Out folder: output/
+2022-03-10 16:31:10 - You select: input/capture_00218_20220310162809.pcap
+2022-03-10 16:31:10 - Out folder: output/
+2022-03-10 16:31:10 - You select: input/capture_00221_20220310162809.pcap
+2022-03-10 16:31:10 - Out folder: output/
+2022-03-10 16:31:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:11 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:56 - You select: input/capture_00004_20220310163152.pcap
+2022-03-10 16:31:57 - Out folder: output/
+2022-03-10 16:31:57 - You select: input/capture_00002_20220310163152.pcap
+2022-03-10 16:31:57 - Out folder: output/
+2022-03-10 16:31:57 - You select: input/capture_00005_20220310163152.pcap
+2022-03-10 16:31:57 - Out folder: output/
+2022-03-10 16:31:57 - You select: input/capture_00003_20220310163152.pcap
+2022-03-10 16:31:57 - Out folder: output/
+2022-03-10 16:31:57 - You select: input/capture_00001_20220310163112.pcap
+2022-03-10 16:31:57 - Out folder: output/
+2022-03-10 16:31:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:31:58 - CICFlowMeter received 1 pcap file
+2022-03-10 16:32:01 - You select: input/capture_00008_20220310163152.pcap
+2022-03-10 16:32:01 - Out folder: output/
+2022-03-10 16:32:01 - You select: input/capture_00006_20220310163152.pcap
+2022-03-10 16:32:01 - Out folder: output/
+2022-03-10 16:32:01 - You select: input/capture_00007_20220310163152.pcap
+2022-03-10 16:32:01 - Out folder: output/
+2022-03-10 16:32:02 - You select: input/capture_00009_20220310163152.pcap
+2022-03-10 16:32:02 - Out folder: output/
+2022-03-10 16:32:02 - You select: input/capture_00010_20220310163152.pcap
+2022-03-10 16:32:02 - Out folder: output/
+2022-03-10 16:32:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:32:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:32:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:32:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:32:01 - CICFlowMeter received 1 pcap file
+2022-03-10 16:32:05 - You select: input/capture_00017_20220310163152.pcap
+2022-03-10 16:32:05 - Out folder: output/
+2022-03-10 16:32:05 - You select: input/capture_00020_20220310163153.pcap
+2022-03-10 16:32:05 - Out folder: output/
+2022-03-10 16:32:05 - You select: input/capture_00016_20220310163152.pcap
+2022-03-10 16:32:05 - Out folder: output/
+2022-03-10 16:32:05 - You select: input/capture_00018_20220310163153.pcap
+2022-03-10 16:32:05 - Out folder: output/
+2022-03-10 16:32:05 - You select: input/capture_00019_20220310163153.pcap
+2022-03-10 16:32:05 - Out folder: output/
+2022-03-10 17:21:11 - Please select pcap!
+2022-03-10 17:21:28 - Please select pcap!
+2022-03-10 17:21:38 - Please select pcap!
+2022-03-10 17:21:59 - Please select pcap!
+2022-03-10 17:22:09 - You select: capture.pcap
+2022-03-10 17:22:09 - Out folder: ./output
+2022-03-10 17:22:09 - CICFlowMeter received 1 pcap file
+2022-03-10 17:22:35 - You select: capture.pcap
+2022-03-10 17:22:35 - Out folder: ./output
+2022-03-10 17:22:35 - CICFlowMeter received 1 pcap file
+2022-03-10 17:24:14 - You select: capture.pcap
+2022-03-10 17:24:14 - Out folder: ./output
+2022-03-10 17:24:14 - CICFlowMeter received 1 pcap file
+2022-03-10 17:24:38 - You select: capture.pcap
+2022-03-10 17:24:38 - Out folder: ./output
+2022-03-10 17:24:38 - CICFlowMeter received 1 pcap file
+2022-03-10 17:24:44 - You select: capture.pcap
+2022-03-10 17:24:44 - Out folder: ./output
+2022-03-10 17:24:45 - CICFlowMeter received 1 pcap file
+2022-03-10 17:24:54 - You select: capture.pcap
+2022-03-10 17:24:54 - Out folder: ./output
+2022-03-10 17:24:55 - CICFlowMeter received 1 pcap file
+2022-03-10 17:25:17 - You select: capture.pcap
+2022-03-10 17:25:17 - Out folder: ./output
+2022-03-10 17:25:17 - CICFlowMeter received 1 pcap file
+2022-03-10 17:25:26 - You select: capture.pcap
+2022-03-10 17:25:26 - Out folder: ./output
+2022-03-10 17:25:26 - CICFlowMeter received 1 pcap file
+2022-03-10 17:27:08 - You select: capture.pcap
+2022-03-10 17:27:08 - Out folder: ./output
+2022-03-10 17:27:08 - CICFlowMeter received 1 pcap file
+2022-03-10 17:27:49 - You select: capture.pcap
+2022-03-10 17:27:49 - Out folder: ./output
+2022-03-10 17:27:49 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:41 - You select: input/capture_00002_20220310172936.pcap
+2022-03-10 17:29:41 - Out folder: output/
+2022-03-10 17:29:41 - You select: input/capture_00004_20220310172936.pcap
+2022-03-10 17:29:41 - Out folder: output/
+2022-03-10 17:29:41 - You select: input/capture_00003_20220310172936.pcap
+2022-03-10 17:29:41 - Out folder: output/
+2022-03-10 17:29:41 - You select: input/capture_00001_20220310172924.pcap
+2022-03-10 17:29:41 - Out folder: output/
+2022-03-10 17:29:41 - You select: input/capture_00005_20220310172936.pcap
+2022-03-10 17:29:41 - Out folder: output/
+2022-03-10 17:29:42 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:42 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:42 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:42 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:42 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:45 - You select: input/capture_00007_20220310172936.pcap
+2022-03-10 17:29:45 - Out folder: output/
+2022-03-10 17:29:45 - You select: input/capture_00009_20220310172936.pcap
+2022-03-10 17:29:45 - Out folder: output/
+2022-03-10 17:29:45 - You select: input/capture_00006_20220310172936.pcap
+2022-03-10 17:29:45 - Out folder: output/
+2022-03-10 17:29:45 - You select: input/capture_00008_20220310172936.pcap
+2022-03-10 17:29:45 - Out folder: output/
+2022-03-10 17:29:45 - You select: input/capture_00010_20220310172936.pcap
+2022-03-10 17:29:45 - Out folder: output/
+2022-03-10 17:29:46 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:46 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:46 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:46 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:47 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:49 - You select: input/capture_00011_20220310172936.pcap
+2022-03-10 17:29:49 - Out folder: output/
+2022-03-10 17:29:49 - You select: input/capture_00012_20220310172936.pcap
+2022-03-10 17:29:49 - Out folder: output/
+2022-03-10 17:29:49 - You select: input/capture_00013_20220310172936.pcap
+2022-03-10 17:29:49 - Out folder: output/
+2022-03-10 17:29:49 - You select: input/capture_00015_20220310172936.pcap
+2022-03-10 17:29:49 - Out folder: output/
+2022-03-10 17:29:49 - You select: input/capture_00014_20220310172936.pcap
+2022-03-10 17:29:49 - Out folder: output/
+2022-03-10 17:29:50 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:50 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:50 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:50 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:50 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:53 - You select: input/capture_00017_20220310172937.pcap
+2022-03-10 17:29:53 - Out folder: output/
+2022-03-10 17:29:53 - You select: input/capture_00016_20220310172936.pcap
+2022-03-10 17:29:53 - Out folder: output/
+2022-03-10 17:29:53 - You select: input/capture_00020_20220310172937.pcap
+2022-03-10 17:29:53 - You select: input/capture_00019_20220310172937.pcap
+2022-03-10 17:29:53 - Out folder: output/
+2022-03-10 17:29:53 - Out folder: output/
+2022-03-10 17:29:53 - You select: input/capture_00018_20220310172937.pcap
+2022-03-10 17:29:53 - Out folder: output/
+2022-03-10 17:29:54 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:54 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:54 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:54 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:54 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:57 - You select: input/capture_00022_20220310172937.pcap
+2022-03-10 17:29:57 - Out folder: output/
+2022-03-10 17:29:57 - You select: input/capture_00021_20220310172937.pcap
+2022-03-10 17:29:57 - Out folder: output/
+2022-03-10 17:29:57 - You select: input/capture_00023_20220310172937.pcap
+2022-03-10 17:29:57 - Out folder: output/
+2022-03-10 17:29:57 - You select: input/capture_00025_20220310172937.pcap
+2022-03-10 17:29:57 - Out folder: output/
+2022-03-10 17:29:57 - You select: input/capture_00024_20220310172937.pcap
+2022-03-10 17:29:57 - Out folder: output/
+2022-03-10 17:29:58 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:58 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:58 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:58 - CICFlowMeter received 1 pcap file
+2022-03-10 17:29:58 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:01 - You select: input/capture_00026_20220310172937.pcap
+2022-03-10 17:30:01 - Out folder: output/
+2022-03-10 17:30:01 - You select: input/capture_00027_20220310172937.pcap
+2022-03-10 17:30:01 - Out folder: output/
+2022-03-10 17:30:01 - You select: input/capture_00028_20220310172937.pcap
+2022-03-10 17:30:01 - Out folder: output/
+2022-03-10 17:30:01 - You select: input/capture_00029_20220310172937.pcap
+2022-03-10 17:30:02 - Out folder: output/
+2022-03-10 17:30:02 - You select: input/capture_00030_20220310172937.pcap
+2022-03-10 17:30:02 - Out folder: output/
+2022-03-10 17:30:02 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:02 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:02 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:02 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:03 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:05 - You select: input/capture_00031_20220310172937.pcap
+2022-03-10 17:30:05 - Out folder: output/
+2022-03-10 17:30:05 - You select: input/capture_00032_20220310172937.pcap
+2022-03-10 17:30:05 - Out folder: output/
+2022-03-10 17:30:05 - You select: input/capture_00033_20220310172937.pcap
+2022-03-10 17:30:05 - Out folder: output/
+2022-03-10 17:30:05 - You select: input/capture_00034_20220310172937.pcap
+2022-03-10 17:30:05 - Out folder: output/
+2022-03-10 17:30:06 - You select: input/capture_00035_20220310172937.pcap
+2022-03-10 17:30:06 - Out folder: output/
+2022-03-10 17:30:06 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:06 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:06 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:06 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:07 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:09 - You select: input/capture_00036_20220310172937.pcap
+2022-03-10 17:30:09 - Out folder: output/
+2022-03-10 17:30:09 - You select: input/capture_00037_20220310172937.pcap
+2022-03-10 17:30:09 - Out folder: output/
+2022-03-10 17:30:10 - You select: input/capture_00038_20220310172937.pcap
+2022-03-10 17:30:10 - Out folder: output/
+2022-03-10 17:30:10 - You select: input/capture_00040_20220310172937.pcap
+2022-03-10 17:30:10 - Out folder: output/
+2022-03-10 17:30:10 - You select: input/capture_00039_20220310172937.pcap
+2022-03-10 17:30:10 - Out folder: output/
+2022-03-10 17:30:11 - You select: input/capture_00043_20220310172937.pcap
+2022-03-10 17:30:11 - Out folder: output/
+2022-03-10 17:30:11 - You select: input/capture_00045_20220310172937.pcap
+2022-03-10 17:30:11 - Out folder: output/
+2022-03-10 17:30:11 - You select: input/capture_00042_20220310172937.pcap
+2022-03-10 17:30:11 - Out folder: output/
+2022-03-10 17:30:11 - You select: input/capture_00041_20220310172937.pcap
+2022-03-10 17:30:11 - Out folder: output/
+2022-03-10 17:30:11 - You select: input/capture_00044_20220310172937.pcap
+2022-03-10 17:30:11 - Out folder: output/
+2022-03-10 17:30:12 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:12 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:12 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:12 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:12 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:15 - You select: input/capture_00046_20220310172937.pcap
+2022-03-10 17:30:15 - Out folder: output/
+2022-03-10 17:30:15 - You select: input/capture_00047_20220310172937.pcap
+2022-03-10 17:30:15 - Out folder: output/
+2022-03-10 17:30:16 - You select: input/capture_00048_20220310172937.pcap
+2022-03-10 17:30:16 - Out folder: output/
+2022-03-10 17:30:16 - You select: input/capture_00049_20220310172938.pcap
+2022-03-10 17:30:16 - Out folder: output/
+2022-03-10 17:30:16 - You select: input/capture_00050_20220310172938.pcap
+2022-03-10 17:30:16 - Out folder: output/
+2022-03-10 17:30:16 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:16 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:17 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:17 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:17 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:20 - You select: input/capture_00051_20220310172938.pcap
+2022-03-10 17:30:20 - Out folder: output/
+2022-03-10 17:30:20 - You select: input/capture_00053_20220310172939.pcap
+2022-03-10 17:30:20 - Out folder: output/
+2022-03-10 17:30:20 - You select: input/capture_00054_20220310172939.pcap
+2022-03-10 17:30:20 - Out folder: output/
+2022-03-10 17:30:20 - You select: input/capture_00052_20220310172938.pcap
+2022-03-10 17:30:20 - Out folder: output/
+2022-03-10 17:30:20 - You select: input/capture_00055_20220310172939.pcap
+2022-03-10 17:30:20 - Out folder: output/
+2022-03-10 17:30:21 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:21 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:21 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:21 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:22 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:24 - You select: input/capture_00056_20220310172939.pcap
+2022-03-10 17:30:24 - Out folder: output/
+2022-03-10 17:30:25 - You select: input/capture_00057_20220310172940.pcap
+2022-03-10 17:30:25 - Out folder: output/
+2022-03-10 17:30:25 - You select: input/capture_00060_20220310172940.pcap
+2022-03-10 17:30:25 - Out folder: output/
+2022-03-10 17:30:25 - You select: input/capture_00058_20220310172940.pcap
+2022-03-10 17:30:25 - Out folder: output/
+2022-03-10 17:30:25 - You select: input/capture_00059_20220310172940.pcap
+2022-03-10 17:30:25 - Out folder: output/
+2022-03-10 17:30:26 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:26 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:26 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:26 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:26 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:29 - You select: input/capture_00061_20220310172940.pcap
+2022-03-10 17:30:29 - Out folder: output/
+2022-03-10 17:30:29 - You select: input/capture_00063_20220310172940.pcap
+2022-03-10 17:30:29 - Out folder: output/
+2022-03-10 17:30:29 - You select: input/capture_00064_20220310172941.pcap
+2022-03-10 17:30:29 - Out folder: output/
+2022-03-10 17:30:29 - You select: input/capture_00062_20220310172940.pcap
+2022-03-10 17:30:29 - Out folder: output/
+2022-03-10 17:30:29 - You select: input/capture_00065_20220310172941.pcap
+2022-03-10 17:30:29 - Out folder: output/
+2022-03-10 17:30:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:34 - You select: input/capture_00066_20220310172941.pcap
+2022-03-10 17:30:34 - Out folder: output/
+2022-03-10 17:30:34 - You select: input/capture_00067_20220310172941.pcap
+2022-03-10 17:30:34 - Out folder: output/
+2022-03-10 17:30:34 - You select: input/capture_00068_20220310172941.pcap
+2022-03-10 17:30:34 - Out folder: output/
+2022-03-10 17:30:34 - You select: input/capture_00069_20220310172941.pcap
+2022-03-10 17:30:34 - Out folder: output/
+2022-03-10 17:30:34 - You select: input/capture_00070_20220310172941.pcap
+2022-03-10 17:30:35 - Out folder: output/
+2022-03-10 17:30:35 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:35 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:35 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:35 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:35 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:38 - You select: input/capture_00072_20220310172941.pcap
+2022-03-10 17:30:38 - Out folder: output/
+2022-03-10 17:30:38 - You select: input/capture_00071_20220310172941.pcap
+2022-03-10 17:30:38 - Out folder: output/
+2022-03-10 17:30:38 - You select: input/capture_00073_20220310172941.pcap
+2022-03-10 17:30:38 - You select: input/capture_00075_20220310172941.pcap
+2022-03-10 17:30:38 - Out folder: output/
+2022-03-10 17:30:38 - Out folder: output/
+2022-03-10 17:30:38 - You select: input/capture_00074_20220310172941.pcap
+2022-03-10 17:30:38 - Out folder: output/
+2022-03-10 17:30:39 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:39 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:39 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:39 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:39 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:42 - You select: input/capture_00076_20220310172941.pcap
+2022-03-10 17:30:42 - Out folder: output/
+2022-03-10 17:30:42 - You select: input/capture_00077_20220310172941.pcap
+2022-03-10 17:30:42 - Out folder: output/
+2022-03-10 17:30:42 - You select: input/capture_00078_20220310172941.pcap
+2022-03-10 17:30:42 - Out folder: output/
+2022-03-10 17:30:42 - You select: input/capture_00080_20220310172941.pcap
+2022-03-10 17:30:42 - Out folder: output/
+2022-03-10 17:30:43 - You select: input/capture_00079_20220310172941.pcap
+2022-03-10 17:30:43 - Out folder: output/
+2022-03-10 17:30:43 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:43 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:43 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:43 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:44 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:46 - You select: input/capture_00082_20220310172941.pcap
+2022-03-10 17:30:46 - Out folder: output/
+2022-03-10 17:30:46 - You select: input/capture_00081_20220310172941.pcap
+2022-03-10 17:30:46 - Out folder: output/
+2022-03-10 17:30:46 - You select: input/capture_00083_20220310172941.pcap
+2022-03-10 17:30:46 - Out folder: output/
+2022-03-10 17:30:46 - You select: input/capture_00084_20220310172941.pcap
+2022-03-10 17:30:47 - Out folder: output/
+2022-03-10 17:30:47 - You select: input/capture_00085_20220310172941.pcap
+2022-03-10 17:30:47 - Out folder: output/
+2022-03-10 17:30:47 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:47 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:47 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:48 - CICFlowMeter received 1 pcap file
+2022-03-10 17:30:48 - CICFlowMeter received 1 pcap file
+2022-03-10 17:39:47 - You select: input/capture_00001_20220310173855.pcap
+2022-03-10 17:39:47 - Out folder: output/
+2022-03-10 17:39:49 - You select: input/capture_00004_20220310173945.pcap
+2022-03-10 17:39:50 - Out folder: output/
+2022-03-10 17:39:50 - You select: input/capture_00002_20220310173944.pcap
+2022-03-10 17:39:50 - Out folder: output/
+2022-03-10 17:39:50 - CICFlowMeter received 1 pcap file
+2022-03-10 17:39:50 - You select: input/capture_00003_20220310173945.pcap
+2022-03-10 17:39:50 - Out folder: output/
+2022-03-10 17:39:51 - You select: input/capture_00005_20220310173945.pcap
+2022-03-10 17:39:51 - Out folder: output/
+2022-03-10 17:39:54 - CICFlowMeter received 1 pcap file
+2022-03-10 17:39:55 - CICFlowMeter received 1 pcap file
+2022-03-10 17:39:57 - CICFlowMeter received 1 pcap file
+2022-03-10 17:39:57 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:07 - You select: input/capture_00006_20220310173945.pcap
+2022-03-10 17:40:07 - Out folder: output/
+2022-03-10 17:40:08 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:09 - You select: input/capture_00007_20220310173945.pcap
+2022-03-10 17:40:09 - Out folder: output/
+2022-03-10 17:40:09 - You select: input/capture_00008_20220310173945.pcap
+2022-03-10 17:40:09 - Out folder: output/
+2022-03-10 17:40:09 - You select: input/capture_00009_20220310173946.pcap
+2022-03-10 17:40:09 - Out folder: output/
+2022-03-10 17:40:09 - You select: input/capture_00010_20220310173946.pcap
+2022-03-10 17:40:09 - Out folder: output/
+2022-03-10 17:40:10 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:10 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:10 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:10 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:13 - You select: input/capture_00011_20220310173946.pcap
+2022-03-10 17:40:13 - Out folder: output/
+2022-03-10 17:40:14 - You select: input/capture_00013_20220310173947.pcap
+2022-03-10 17:40:14 - Out folder: output/
+2022-03-10 17:40:14 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:14 - You select: input/capture_00012_20220310173946.pcap
+2022-03-10 17:40:14 - Out folder: output/
+2022-03-10 17:40:14 - You select: input/capture_00014_20220310173948.pcap
+2022-03-10 17:40:14 - Out folder: output/
+2022-03-10 17:40:14 - You select: input/capture_00015_20220310173948.pcap
+2022-03-10 17:40:14 - Out folder: output/
+2022-03-10 17:40:15 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:15 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:16 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:16 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:19 - You select: input/capture_00016_20220310173948.pcap
+2022-03-10 17:40:19 - Out folder: output/
+2022-03-10 17:40:19 - You select: input/capture_00017_20220310173949.pcap
+2022-03-10 17:40:19 - Out folder: output/
+2022-03-10 17:40:19 - You select: input/capture_00018_20220310173950.pcap
+2022-03-10 17:40:19 - Out folder: output/
+2022-03-10 17:40:19 - You select: input/capture_00019_20220310173950.pcap
+2022-03-10 17:40:19 - Out folder: output/
+2022-03-10 17:40:20 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:20 - You select: input/capture_00020_20220310173951.pcap
+2022-03-10 17:40:20 - Out folder: output/
+2022-03-10 17:40:20 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:21 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:21 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:21 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:24 - You select: input/capture_00021_20220310173951.pcap
+2022-03-10 17:40:24 - Out folder: output/
+2022-03-10 17:40:24 - You select: input/capture_00022_20220310173951.pcap
+2022-03-10 17:40:24 - Out folder: output/
+2022-03-10 17:40:24 - You select: input/capture_00023_20220310173952.pcap
+2022-03-10 17:40:24 - Out folder: output/
+2022-03-10 17:40:24 - You select: input/capture_00025_20220310173952.pcap
+2022-03-10 17:40:24 - Out folder: output/
+2022-03-10 17:40:24 - You select: input/capture_00024_20220310173952.pcap
+2022-03-10 17:40:24 - Out folder: output/
+2022-03-10 17:40:25 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:25 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:25 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:25 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:26 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:30 - You select: input/capture_00026_20220310173952.pcap
+2022-03-10 17:40:30 - Out folder: output/
+2022-03-10 17:40:30 - You select: input/capture_00027_20220310173953.pcap
+2022-03-10 17:40:29 - Out folder: output/
+2022-03-10 17:40:29 - You select: input/capture_00028_20220310173953.pcap
+2022-03-10 17:40:29 - Out folder: output/
+2022-03-10 17:40:29 - You select: input/capture_00030_20220310173953.pcap
+2022-03-10 17:40:29 - Out folder: output/
+2022-03-10 17:40:29 - You select: input/capture_00029_20220310173953.pcap
+2022-03-10 17:40:29 - Out folder: output/
+2022-03-10 17:40:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:30 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:34 - You select: input/capture_00031_20220310173954.pcap
+2022-03-10 17:40:34 - Out folder: output/
+2022-03-10 17:40:34 - You select: input/capture_00032_20220310173954.pcap
+2022-03-10 17:40:34 - Out folder: output/
+2022-03-10 17:40:34 - You select: input/capture_00033_20220310173955.pcap
+2022-03-10 17:40:34 - Out folder: output/
+2022-03-10 17:40:35 - You select: input/capture_00034_20220310173955.pcap
+2022-03-10 17:40:35 - Out folder: output/
+2022-03-10 17:40:35 - You select: input/capture_00035_20220310173955.pcap
+2022-03-10 17:40:35 - Out folder: output/
+2022-03-10 17:40:35 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:35 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:36 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:36 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:36 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:38 - You select: input/capture_00036_20220310173955.pcap
+2022-03-10 17:40:38 - Out folder: output/
+2022-03-10 17:40:39 - You select: input/capture_00037_20220310173955.pcap
+2022-03-10 17:40:39 - Out folder: output/
+2022-03-10 17:40:39 - You select: input/capture_00038_20220310173956.pcap
+2022-03-10 17:40:39 - Out folder: output/
+2022-03-10 17:40:39 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:39 - You select: input/capture_00039_20220310173956.pcap
+2022-03-10 17:40:39 - Out folder: output/
+2022-03-10 17:40:39 - You select: input/capture_00040_20220310173956.pcap
+2022-03-10 17:40:39 - Out folder: output/
+2022-03-10 17:40:40 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:40 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:40 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:41 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:43 - You select: input/capture_00041_20220310173956.pcap
+2022-03-10 17:40:43 - Out folder: output/
+2022-03-10 17:40:44 - You select: input/capture_00043_20220310173957.pcap
+2022-03-10 17:40:44 - Out folder: output/
+2022-03-10 17:40:44 - You select: input/capture_00042_20220310173956.pcap
+2022-03-10 17:40:44 - Out folder: output/
+2022-03-10 17:40:44 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:45 - You select: input/capture_00044_20220310173958.pcap
+2022-03-10 17:40:45 - Out folder: output/
+2022-03-10 17:40:45 - You select: input/capture_00045_20220310173959.pcap
+2022-03-10 17:40:45 - Out folder: output/
+2022-03-10 17:40:45 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:45 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:46 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:46 - CICFlowMeter received 1 pcap file
+2022-03-10 17:40:49 - You select: input/capture_00046_20220310174000.pcap
+2022-03-10 17:40:49 - Out folder: output/
+2022-03-10 17:40:49 - You select: input/capture_00048_20220310174001.pcap
+2022-03-10 17:40:49 - Out folder: output/
+2022-03-10 17:40:49 - You select: input/capture_00047_20220310174000.pcap
+2022-03-10 17:40:49 - Out folder: output/
+2022-03-10 17:40:50 - You select: input/capture_00049_20220310174002.pcap
+2022-03-10 17:40:50 - Out folder: output/
+2022-03-10 17:40:51 - You select: input/capture_00051_20220310174003.pcap
+2022-03-10 17:40:51 - Out folder: output/
+2022-03-10 18:31:45 - You select: input/capture_00001_20220310182324.pcap
+2022-03-10 18:31:45 - Out folder: output/
+2022-03-10 18:31:46 - CICFlowMeter received 1 pcap file
+2022-03-10 18:39:42 - You select: input/capture_00002_20220310183937.pcap
+2022-03-10 18:39:42 - Out folder: output/
+2022-03-10 18:39:43 - You select: input/capture_00001_20220310183915.pcap
+2022-03-10 18:39:43 - Out folder: output/
+2022-03-10 18:39:43 - You select: input/capture_00004_20220310183938.pcap
+2022-03-10 18:39:43 - You select: input/capture_00006_20220310183938.pcap
+2022-03-10 18:39:43 - Out folder: output/
+2022-03-10 18:39:43 - Out folder: output/
+2022-03-10 18:39:43 - You select: input/capture_00005_20220310183938.pcap
+2022-03-10 18:39:43 - Out folder: output/
+2022-03-10 18:39:44 - You select: input/capture_00003_20220310183938.pcap
+2022-03-10 18:39:44 - Out folder: output/
+2022-03-10 18:39:47 - CICFlowMeter received 1 pcap file
+2022-03-10 18:39:47 - CICFlowMeter received 1 pcap file
+2022-03-10 18:39:48 - CICFlowMeter received 1 pcap file
+2022-03-10 18:39:48 - CICFlowMeter received 1 pcap file
+2022-03-10 18:39:48 - CICFlowMeter received 1 pcap file
+2022-03-10 18:39:48 - CICFlowMeter received 1 pcap file
+2022-03-10 18:39:56 - You select: input/capture_00007_20220310183938.pcap
+2022-03-10 18:39:56 - Out folder: output/
+2022-03-10 18:39:57 - You select: input/capture_00008_20220310183938.pcap
+2022-03-10 18:39:57 - Out folder: output/
+2022-03-10 18:39:59 - You select: input/capture_00011_20220310183939.pcap
+2022-03-10 18:39:59 - Out folder: output/
+2022-03-10 18:39:59 - You select: input/capture_00010_20220310183939.pcap
+2022-03-10 18:39:59 - Out folder: output/
+2022-03-10 18:39:59 - You select: input/capture_00009_20220310183939.pcap
+2022-03-10 18:39:59 - Out folder: output/
+2022-03-10 18:40:00 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:00 - You select: input/capture_00012_20220310183940.pcap
+2022-03-10 18:40:00 - Out folder: output/
+2022-03-10 18:40:00 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:02 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:03 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:05 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:06 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:14 - You select: input/capture_00014_20220310183943.pcap
+2022-03-10 18:40:14 - Out folder: output/
+2022-03-10 18:40:16 - You select: input/capture_00016_20220310183944.pcap
+2022-03-10 18:40:16 - Out folder: output/
+2022-03-10 18:40:16 - You select: input/capture_00013_20220310183942.pcap
+2022-03-10 18:40:16 - Out folder: output/
+2022-03-10 18:40:17 - You select: input/capture_00015_20220310183943.pcap
+2022-03-10 18:40:17 - Out folder: output/
+2022-03-10 18:40:18 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:19 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:19 - You select: input/capture_00018_20220310183944.pcap
+2022-03-10 18:40:19 - Out folder: output/
+2022-03-10 18:40:20 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:21 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:21 - You select: input/capture_00017_20220310183944.pcap
+2022-03-10 18:40:21 - Out folder: output/
+2022-03-10 18:40:22 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:27 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:28 - You select: input/capture_00019_20220310183946.pcap
+2022-03-10 18:40:28 - Out folder: output/
+2022-03-10 18:40:29 - You select: input/capture_00024_20220310183951.pcap
+2022-03-10 18:40:29 - Out folder: output/
+2022-03-10 18:40:29 - You select: input/capture_00023_20220310183949.pcap
+2022-03-10 18:40:29 - Out folder: output/
+2022-03-10 18:40:29 - You select: input/capture_00025_20220310183952.pcap
+2022-03-10 18:40:29 - Out folder: output/
+2022-03-10 18:40:30 - You select: input/capture_00022_20220310183947.pcap
+2022-03-10 18:40:30 - Out folder: output/
+2022-03-10 18:40:30 - You select: input/capture_00027_20220310183953.pcap
+2022-03-10 18:40:30 - Out folder: output/
+2022-03-10 18:40:30 - You select: input/capture_00026_20220310183952.pcap
+2022-03-10 18:40:30 - Out folder: output/
+2022-03-10 18:40:30 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:31 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:31 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:31 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:31 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:31 - CICFlowMeter received 1 pcap file
+2022-03-10 18:40:32 - You select: input/capture_00028_20220310183953.pcap
+2022-03-10 18:40:32 - Out folder: output/
+2022-03-10 18:40:33 - You select: input/capture_00031_20220310183955.pcap
+2022-03-10 18:40:33 - You select: input/capture_00030_20220310183954.pcap
+2022-03-10 18:40:33 - Out folder: output/
+2022-03-10 18:40:33 - Out folder: output/
+2022-03-10 18:40:33 - You select: input/capture_00029_20220310183954.pcap
+2022-03-10 18:40:33 - Out folder: output/
+2022-03-10 18:40:33 - You select: input/capture_00032_20220310183956.pcap
+2022-03-10 18:40:33 - Out folder: output/
+2022-03-10 21:25:44 - You select: input/capture_00001_20220310212539.pcap
+2022-03-10 21:25:44 - Out folder: output/
+2022-03-10 21:25:44 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:42 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00001_20220310213615.pcap
+2022-03-10 21:36:42 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:43 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:44 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00002_20220310213641.pcap
+2022-03-10 21:36:44 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:44 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00003_20220310213642.pcap
+2022-03-10 21:36:44 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:45 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00005_20220310213642.pcap
+2022-03-10 21:36:45 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:46 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00006_20220310213643.pcap
+2022-03-10 21:36:46 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:47 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:48 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:48 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:48 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00004_20220310213642.pcap
+2022-03-10 21:36:48 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:48 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:49 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:52 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00007_20220310213643.pcap
+2022-03-10 21:36:52 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:53 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:53 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00009_20220310213644.pcap
+2022-03-10 21:36:53 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00008_20220310213644.pcap
+2022-03-10 21:36:53 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:53 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:53 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00010_20220310213644.pcap
+2022-03-10 21:36:53 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:53 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00011_20220310213645.pcap
+2022-03-10 21:36:53 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:54 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:54 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:54 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:54 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:54 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00012_20220310213645.pcap
+2022-03-10 21:36:54 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:56 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:58 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00013_20220310213645.pcap
+2022-03-10 21:36:58 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:59 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00014_20220310213646.pcap
+2022-03-10 21:36:59 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:59 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00015_20220310213646.pcap
+2022-03-10 21:36:59 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:59 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00016_20220310213646.pcap
+2022-03-10 21:36:59 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:36:59 - CICFlowMeter received 1 pcap file
+2022-03-10 21:36:59 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00017_20220310213647.pcap
+2022-03-10 21:36:59 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:37:00 - CICFlowMeter received 1 pcap file
+2022-03-10 21:37:00 - CICFlowMeter received 1 pcap file
+2022-03-10 21:37:00 - CICFlowMeter received 1 pcap file
+2022-03-10 21:37:00 - CICFlowMeter received 1 pcap file
+2022-03-10 21:37:00 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00018_20220310213648.pcap
+2022-03-10 21:37:00 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:37:02 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:12 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00019_20220310213648.pcap
+2022-03-10 21:50:12 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:12 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:38 - The pcap file or folder does not exist! -> /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00001_20220310215015.pcap
+2022-03-10 21:50:39 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00005_20220310215036.pcap
+2022-03-10 21:50:39 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00004_20220310215036.pcap
+2022-03-10 21:50:39 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:39 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:39 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00003_20220310215036.pcap
+2022-03-10 21:50:39 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:39 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00002_20220310215036.pcap
+2022-03-10 21:50:39 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:39 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00006_20220310215036.pcap
+2022-03-10 21:50:39 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:40 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:40 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00007_20220310215037.pcap
+2022-03-10 21:50:40 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:40 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:40 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:40 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:41 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:41 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:45 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00009_20220310215037.pcap
+2022-03-10 21:50:45 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:45 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00008_20220310215037.pcap
+2022-03-10 21:50:45 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:45 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00010_20220310215038.pcap
+2022-03-10 21:50:45 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:45 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00011_20220310215038.pcap
+2022-03-10 21:50:46 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:46 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00012_20220310215038.pcap
+2022-03-10 21:50:46 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:46 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:46 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:47 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00013_20220310215039.pcap
+2022-03-10 21:50:47 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:47 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:47 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:47 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:48 - CICFlowMeter received 1 pcap file
+2022-03-10 21:50:50 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00014_20220310215039.pcap
+2022-03-10 21:50:50 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 21:50:50 - CICFlowMeter received 1 pcap file
+2022-03-10 22:04:11 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00015_20220310215039.pcap
+2022-03-10 22:04:11 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 22:04:11 - CICFlowMeter received 1 pcap file
+2022-03-10 22:07:38 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00001_20220310220735.pcap
+2022-03-10 22:07:38 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 22:07:38 - CICFlowMeter received 1 pcap file
+2022-03-10 22:09:18 - You select: /mnt/hgfs/vm_shared/ids-agent/data/pcaps/capture_00001_20220310220916.pcap
+2022-03-10 22:09:18 - Out folder: /mnt/hgfs/vm_shared/ids-agent/data/ids_input/
+2022-03-10 22:09:18 - CICFlowMeter received 1 pcap file
