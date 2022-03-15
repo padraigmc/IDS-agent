@@ -4,57 +4,38 @@ from datetime import datetime
 from subprocess import Popen, PIPE
 
 BASE_PATH = os.path.dirname(os.path.realpath(__file__))
-DUMPCAP_PATH = BASE_PATH + '/tools/dumpcap/'
 
-
-class CaptureTraffic(threading.Thread):
-	def __init__(self, interface: str, output_file: str, output_filesize: int):
-		threading.Thread.__init__(self)
+class CaptureTraffic():
+	def __init__(self, interface: str, output_dir: str, output_filesize: int):
 		self.interface = interface
-		self.output_file = output_file
+		self.output_dir = output_dir
 		self.output_filesize = output_filesize
 		self.process = None
-		self.kill = threading.Event()
+		self.kill_switch = False
 
 		print('Traffic capture module initialized...')
 
-	def run(self):
-		stdout = stderr = None
-
-		print(self.kill.is_set())
-
-		while not self.kill.is_set():
-			self.process = Popen([
-				'sudo',
-				'/usr/bin/dumpcap',
+	def capture(self):
+		while not self.kill_switch: # not self.kill.is_set():
+			dumpcap_command = [
+				'dumpcap',
 				'-i', self.interface,
-				'-w', self.output_file + 'capture.pcap',
+				'-w', self.output_dir + 'capture.pcap',
 				'-b', 'filesize:' + str(self.output_filesize)
-			],
-				cwd=DUMPCAP_PATH,
-				stdout=PIPE,
-				stderr=PIPE)
+			]
+			self.process = Popen(dumpcap_command, stdout=PIPE, stderr=PIPE)
 
-			print('dumpcap process started...')
+			pcap_path = ''
+			for output_line in iter(self.process.stderr.readline, b''):
+				if self.kill_switch: break
 
-			stdout, stderr = self.process.communicate()
-			self.std_log(stdout, stderr)
-
-			print('dumpcap communicate finished...')
+				if os.path.isfile(pcap_path):
+					yield pcap_path
+				
+				# get pcap path from stdout
+				pcap_path = str(output_line).split(sep=': ')[-1].replace('\\n\'', '')
 		
-	def stop(self):
-		self.process.kill()
-		self.kill.set()
-
-	def std_log(self, stdout, stderr):
-		# write to output logs
-		if stdout:
-			with open("logs/pcap_stdout.txt", "a") as f:
-				timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-				f.write(timestamp + ': ' + str(stdout) + '\n')
-
-		if stderr:
-			with open("logs/pcap_stderr.txt", "a") as f:
-				timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-				f.write(timestamp + ': ' + str(stderr) + '\n')
-
+	def kill(self):
+		self.kill_switch = True
+		if self.process:
+			self.process.terminate()
